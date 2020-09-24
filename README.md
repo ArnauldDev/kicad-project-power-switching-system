@@ -1,2 +1,47 @@
 # kicad-project-power-switching-system
+
 Power switching system
+
+[Fr] Carte 4 interrupteurs de commutation d'alimentation
+
+[Fr] Réalisation d'une carte "Carte switch Alim" v0.1.0
+
+---
+
+### BOM
+
+| No article | Quantité | Description                                                               | A l'unité                   | Prix à l'unité | Valeur de la ligne |
+| ---------- | -------- | ------------------------------------------------------------------------- | --------------------------- | -------------- | ------------------ |
+| 514-1897   | 1        | Boîtier Hammond en ABS, 220 x 110 x 44mm, Gris IP54                       | la pièce                    | 12,16 €        | 12,16 €            |
+| 121-7115   | 1        | Alimentation enfichable 5V c.c., 1A, 5W                                   | la pièce                    | 6,67 €         | 6,67 €             |
+| 805-1699   | 2        | Connecteur Jack RS PRO Double c.c. Femelle 2,1 mm, 2,5 mm, Montage sur CI | l'unité (par multiple de 5) | 1,282 €        | 6,41 €             |
+| 121-7115   | 1        | Alimentation enfichable 5V c.c., 1A, 5W                                   | la pièce                    | 6,003 €        | 6,00 €             |
+| 228-5916   | 4        | LED Rouge, Traversant, 3 mm (T-1), 2 V                                    | l'unité (par multiple de 5) | 0,126 €        | 0,63 €             |
+| 228-5944   | 4        | LED Vert, Traversant, 3 mm (T-1), 2,2 V                                   | l'unité (par multiple de 5) | 0,126 €        | 0,63 €             |
+| 122-9670   | 4        | Fiche banane Staubli Noir Femelle 24A 1 kV, 600 V (vertical)              | la pièce                    | 6,138 €        | 24,552 €           |
+| 122-9671   | 4        | Fiche banane Staubli Rouge Femelle 24A 1 kV, 600 V (vertical)             | la pièce                    | 6,138 €        | 24,552 €           |
+| 144-1451   | 9        | Fiche banane Schutzinger Noir Embase 24A 1kV (horizontal)                 | la pièce                    | 5,238 €        | 47,142 €           |
+| 144-1450   | 10       | Fiche banane Schutzinger Rouge Embase 24A 1kV (horizontal)                | la pièce                    | 5,238 €        | 52,4 €             |
+| 401-692    | 4        | Interrupteur à levier RS PRO, On-Off-On, 2RT, 5 A @ 28 V c.c.             | la pièce                    | 2,484 €        | 9,936 €            |
+
+---
+
+### KiCad
+
+[KiCad EDA - Schematic Capture & PCB Design Software](https://kicad-pcb.org/)
+
+Open source EDA / electronics CAD software for Windows, macOS and Linux.
+
+Use schematic capture, design PCB layouts and view them in 3D, all forever free.
+
+#### Library management in KiCad version 5
+
+[KiCad Library Convention](https://kicad-pcb.org/libraries/klc/)
+
+#### [Fr] Champs suplémentaires dans les Propriétés du Symbole
+
+<img src="Docs/kicad-champs-symbole.png" width="650">
+
+#### [Fr] Placement
+
+<img src="Docs/placement-switch-alim-oled-v0-1-0.png" width="800">
