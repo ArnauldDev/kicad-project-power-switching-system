@@ -7,11 +7,11 @@ Sheet 1 1
 Title "Power switch for test bench"
 Date "2020-09-24"
 Rev "0.1.0"
-Comp "LAPLACE"
-Comment1 "Arnauld Biganzoli"
+Comp "Laboratoire LAPLACE"
+Comment1 "www.laplace.univ-tlse.fr"
 Comment2 "arnauld.biganzoli@gmail.com"
-Comment3 ""
-Comment4 ""
+Comment3 "Arnauld Biganzoli"
+Comment4 "Design by:"
 $EndDescr
 $Comp
 L Connector_Generic:Conn_01x01 J4
@@ -110,50 +110,6 @@ F 8 "144-1450" H 10300 750 50  0001 C CNN "Supplier Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L power:GND2 #PWR07
-U 1 1 5F68ED58
-P 6750 1000
-F 0 "#PWR07" H 6750 750 50  0001 C CNN
-F 1 "GND2" H 6755 827 50  0000 C CNN
-F 2 "" H 6750 1000 50  0001 C CNN
-F 3 "" H 6750 1000 50  0001 C CNN
-	1    6750 1000
-	-1   0    0    -1  
-$EndComp
-$Comp
-L power:GND2 #PWR06
-U 1 1 5F66F6AD
-P 5250 1000
-F 0 "#PWR06" H 5250 750 50  0001 C CNN
-F 1 "GND2" H 5255 827 50  0000 C CNN
-F 2 "" H 5250 1000 50  0001 C CNN
-F 3 "" H 5250 1000 50  0001 C CNN
-	1    5250 1000
-	-1   0    0    -1  
-$EndComp
-$Comp
-L power:GND2 #PWR05
-U 1 1 5F66D6C6
-P 3750 1000
-F 0 "#PWR05" H 3750 750 50  0001 C CNN
-F 1 "GND2" H 3755 827 50  0000 C CNN
-F 2 "" H 3750 1000 50  0001 C CNN
-F 3 "" H 3750 1000 50  0001 C CNN
-	1    3750 1000
-	-1   0    0    -1  
-$EndComp
-$Comp
-L power:GND2 #PWR08
-U 1 1 5F615EBA
-P 9550 1000
-F 0 "#PWR08" H 9550 750 50  0001 C CNN
-F 1 "GND2" H 9555 827 50  0000 C CNN
-F 2 "" H 9550 1000 50  0001 C CNN
-F 3 "" H 9550 1000 50  0001 C CNN
-	1    9550 1000
-	-1   0    0    -1  
-$EndComp
-$Comp
 L Connector_Generic:Conn_01x01 J10
 U 1 1 5F613E51
 P 9550 750
@@ -170,92 +126,50 @@ F 8 "144-1451" H 9550 750 50  0001 C CNN "Supplier Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x01 J2
-U 1 1 5F5A7FAB
-P 2850 750
-F 0 "J2" V 2859 830 50  0000 L CNN
-F 1 "Red" V 2768 830 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 2850 750 50  0001 C CNN
-F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 2850 750 50  0001 C CNN
-F 4 "Alim 1 +" V 2677 830 50  0000 L CNN "Description"
-F 5 "RS Components" H 2850 750 50  0001 C CNN "Supplier"
-F 6 "Schutzinger" H 2850 750 50  0001 C CNN "Manufacturer"
-F 7 "SWEB 8094 Au / RT" H 2850 750 50  0001 C CNN "Manufacturer Part Number"
-F 8 "144-1450" H 2850 750 50  0001 C CNN "Supplier Part Number"
-	1    2850 750 
-	0    1    -1   0   
-$EndComp
-$Comp
-L power:GND1 #PWR01
-U 1 1 5F6BB647
-P 750 1000
-F 0 "#PWR01" H 750 750 50  0001 C CNN
-F 1 "GND1" H 755 827 50  0000 C CNN
-F 2 "" H 750 1000 50  0001 C CNN
-F 3 "" H 750 1000 50  0001 C CNN
-	1    750  1000
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND2 #PWR02
-U 1 1 5F6BBD62
-P 1150 1000
-F 0 "#PWR02" H 1150 750 50  0001 C CNN
-F 1 "GND2" H 1155 827 50  0000 C CNN
-F 2 "" H 1150 1000 50  0001 C CNN
-F 3 "" H 1150 1000 50  0001 C CNN
-	1    1150 1000
-	-1   0    0    -1  
-$EndComp
-$Comp
 L power:PWR_FLAG #FLG01
 U 1 1 5F6C171B
-P 750 950
-F 0 "#FLG01" H 750 1025 50  0001 C CNN
-F 1 "PWR_FLAG" H 750 1123 50  0000 C CNN
-F 2 "" H 750 950 50  0001 C CNN
-F 3 "~" H 750 950 50  0001 C CNN
-	1    750  950 
+P 850 1450
+F 0 "#FLG01" H 850 1525 50  0001 C CNN
+F 1 "PWR_FLAG" H 850 1623 50  0000 C CNN
+F 2 "" H 850 1450 50  0001 C CNN
+F 3 "~" H 850 1450 50  0001 C CNN
+	1    850  1450
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:PWR_FLAG #FLG02
 U 1 1 5F6C1CCE
-P 1150 950
-F 0 "#FLG02" H 1150 1025 50  0001 C CNN
-F 1 "PWR_FLAG" H 1150 1123 50  0000 C CNN
-F 2 "" H 1150 950 50  0001 C CNN
-F 3 "~" H 1150 950 50  0001 C CNN
-	1    1150 950 
+P 1400 1450
+F 0 "#FLG02" H 1400 1525 50  0001 C CNN
+F 1 "PWR_FLAG" H 1400 1623 50  0000 C CNN
+F 2 "" H 1400 1450 50  0001 C CNN
+F 3 "~" H 1400 1450 50  0001 C CNN
+	1    1400 1450
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:PWR_FLAG #FLG03
 U 1 1 5F6C2017
-P 1550 950
-F 0 "#FLG03" H 1550 1025 50  0001 C CNN
-F 1 "PWR_FLAG" H 1550 1123 50  0000 C CNN
-F 2 "" H 1550 950 50  0001 C CNN
-F 3 "~" H 1550 950 50  0001 C CNN
-	1    1550 950 
+P 1400 900
+F 0 "#FLG03" H 1400 975 50  0001 C CNN
+F 1 "PWR_FLAG" H 1400 1073 50  0000 C CNN
+F 2 "" H 1400 900 50  0001 C CNN
+F 3 "~" H 1400 900 50  0001 C CNN
+	1    1400 900 
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1550 950  1550 1000
+	1400 900  1400 950 
 Wire Wire Line
-	1150 950  1150 1000
+	1400 1450 1400 1500
 Wire Wire Line
-	750  950  750  1000
+	850  1450 850  1500
 Wire Notes Line
-	1850 1250 500  1250
+	1850 1750 500  1750
 Wire Notes Line
 	500  500  1850 500 
-Text Notes 850  600  0    50   Italic 0
-KiCad Power DRC
-Wire Notes Line
-	500  500  500  1250
-Wire Notes Line
-	1850 500  1850 1250
+Text Notes 650  600  0    50   Italic 0
+KiCad Power Flag for DRC
 Wire Notes Line
 	1850 650  500  650 
 Wire Notes Line
@@ -270,9 +184,9 @@ Wire Notes Line
 	8050 500  8050 1250
 Text Notes 9100 600  0    50   Italic 10
 Keithley Power Supply
-Text GLabel 8800 1150 0    50   Output ~ 0
+Text GLabel 8800 1100 0    50   Output ~ 0
 Keithley_VA
-Text GLabel 10350 1150 2    50   Output ~ 0
+Text GLabel 10350 1100 2    50   Output ~ 0
 Keithley_VB
 Wire Notes Line
 	2000 1250 2000 500 
@@ -280,8 +194,6 @@ Wire Notes Line
 	2000 500  3400 500 
 Wire Notes Line
 	3400 500  3400 1250
-Wire Notes Line
-	3400 1250 2000 1250
 Wire Notes Line
 	2000 650  3400 650 
 Text Notes 2400 600  0    50   Italic 10
@@ -321,25 +233,14 @@ Wire Notes Line
 Wire Notes Line
 	6500 650  7900 650 
 $Comp
-L power:GND2 #PWR04
-U 1 1 5F61A3B2
-P 2250 1000
-F 0 "#PWR04" H 2250 750 50  0001 C CNN
-F 1 "GND2" H 2255 827 50  0000 C CNN
-F 2 "" H 2250 1000 50  0001 C CNN
-F 3 "" H 2250 1000 50  0001 C CNN
-	1    2250 1000
-	-1   0    0    -1  
-$EndComp
-$Comp
 L Connector_Generic:Conn_01x01 J7
 U 1 1 5F68ED51
 P 6750 750
-F 0 "J7" V 6714 830 50  0000 L CNN
-F 1 "Black" V 6623 830 50  0000 L CNN
+F 0 "J7" V 6759 830 50  0000 L CNN
+F 1 "Black" V 6668 830 50  0000 L CNN
 F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 6750 750 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 6750 750 50  0001 C CNN
-F 4 "GND" H 6750 750 50  0001 C CNN "Description"
+F 4 "Alim 1 -" V 6577 830 50  0000 L CNN "Description"
 F 5 "RS Components" H 6750 750 50  0001 C CNN "Supplier"
 F 6 "Schutzinger" H 6750 750 50  0001 C CNN "Manufacturer"
 F 7 "SWEB 8094 Au / SW" H 6750 750 50  0001 C CNN "Manufacturer Part Number"
@@ -351,11 +252,11 @@ $Comp
 L Connector_Generic:Conn_01x01 J5
 U 1 1 5F66F6A6
 P 5250 750
-F 0 "J5" V 5214 830 50  0000 L CNN
-F 1 "Black" V 5123 830 50  0000 L CNN
+F 0 "J5" V 5259 830 50  0000 L CNN
+F 1 "Black" V 5168 830 50  0000 L CNN
 F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 5250 750 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 5250 750 50  0001 C CNN
-F 4 "GND" H 5250 750 50  0001 C CNN "Description"
+F 4 "Alim 1 -" V 5077 830 50  0000 L CNN "Description"
 F 5 "RS Components" H 5250 750 50  0001 C CNN "Supplier"
 F 6 "Schutzinger" H 5250 750 50  0001 C CNN "Manufacturer"
 F 7 "SWEB 8094 Au / SW" H 5250 750 50  0001 C CNN "Manufacturer Part Number"
@@ -367,11 +268,11 @@ $Comp
 L Connector_Generic:Conn_01x01 J3
 U 1 1 5F66D6BF
 P 3750 750
-F 0 "J3" V 3714 830 50  0000 L CNN
-F 1 "Black" V 3623 830 50  0000 L CNN
+F 0 "J3" V 3759 830 50  0000 L CNN
+F 1 "Black" V 3668 830 50  0000 L CNN
 F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 3750 750 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 3750 750 50  0001 C CNN
-F 4 "GND" H 3750 750 50  0001 C CNN "Description"
+F 4 "Alim 1 -" V 3577 830 50  0000 L CNN "Description"
 F 5 "RS Components" H 3750 750 50  0001 C CNN "Supplier"
 F 6 "Schutzinger" H 3750 750 50  0001 C CNN "Manufacturer"
 F 7 "SWEB 8094 Au / SW" H 3750 750 50  0001 C CNN "Manufacturer Part Number"
@@ -379,31 +280,13 @@ F 8 "144-1451" H 3750 750 50  0001 C CNN "Supplier Part Number"
 	1    3750 750 
 	0    1    -1   0   
 $EndComp
-$Comp
-L Connector_Generic:Conn_01x01 J1
-U 1 1 5F61421E
-P 2250 750
-F 0 "J1" V 2214 830 50  0000 L CNN
-F 1 "Black" V 2123 830 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 2250 750 50  0001 C CNN
-F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 2250 750 50  0001 C CNN
-F 4 "GND" H 2250 750 50  0001 C CNN "Description"
-F 5 "RS Components" H 2250 750 50  0001 C CNN "Supplier"
-F 6 "Schutzinger" H 2250 750 50  0001 C CNN "Manufacturer"
-F 7 "SWEB 8094 Au / SW" H 2250 750 50  0001 C CNN "Manufacturer Part Number"
-F 8 "144-1451" H 2250 750 50  0001 C CNN "Supplier Part Number"
-	1    2250 750 
-	0    1    -1   0   
-$EndComp
 Text Notes 6900 600  0    50   Italic 10
 Power Supply 4
-Text GLabel 2900 1150 2    50   Output ~ 0
-Alim_V1
-Text GLabel 4400 1150 2    50   Output ~ 0
+Text GLabel 4400 1100 2    50   Output ~ 0
 Alim_V2
-Text GLabel 5900 1150 2    50   Output ~ 0
+Text GLabel 5900 1100 2    50   Output ~ 0
 Alim_V3
-Text GLabel 7400 1150 2    50   Output ~ 0
+Text GLabel 7400 1100 2    50   Output ~ 0
 Alim_V4
 Wire Notes Line
 	2000 5500 2000 4750
@@ -531,46 +414,16 @@ Wire Wire Line
 	7000 4250 6900 4250
 Connection ~ 7000 4250
 Wire Wire Line
-	7000 4300 7000 4250
-Wire Wire Line
 	5500 4250 5600 4250
 Connection ~ 5500 4250
-Wire Wire Line
-	5500 4300 5500 4250
 Wire Wire Line
 	4000 4250 4100 4250
 Connection ~ 4000 4250
 Wire Wire Line
 	3900 4250 4000 4250
 Wire Wire Line
-	4000 4300 4000 4250
-Wire Wire Line
 	2500 4250 2600 4250
 Connection ~ 2500 4250
-Wire Wire Line
-	2500 4300 2500 4250
-$Comp
-L power:GND1 #PWR016
-U 1 1 5F82D43B
-P 5500 4300
-F 0 "#PWR016" H 5500 4050 50  0001 C CNN
-F 1 "GND1" H 5505 4127 50  0000 C CNN
-F 2 "" H 5500 4300 50  0001 C CNN
-F 3 "" H 5500 4300 50  0001 C CNN
-	1    5500 4300
-	-1   0    0    -1  
-$EndComp
-$Comp
-L power:GND1 #PWR017
-U 1 1 5F82D431
-P 7000 4300
-F 0 "#PWR017" H 7000 4050 50  0001 C CNN
-F 1 "GND1" H 7005 4127 50  0000 C CNN
-F 2 "" H 7000 4300 50  0001 C CNN
-F 3 "" H 7000 4300 50  0001 C CNN
-	1    7000 4300
-	-1   0    0    -1  
-$EndComp
 Text GLabel 4300 3150 3    50   Output ~ 0
 Alim_V2
 Text GLabel 7300 3150 3    50   Output ~ 0
@@ -591,17 +444,6 @@ Wire Wire Line
 	5500 2600 5500 2650
 Wire Wire Line
 	5400 4250 5500 4250
-$Comp
-L power:GND1 #PWR018
-U 1 1 5F6DF0AC
-P 2500 4300
-F 0 "#PWR018" H 2500 4050 50  0001 C CNN
-F 1 "GND1" H 2505 4127 50  0000 C CNN
-F 2 "" H 2500 4300 50  0001 C CNN
-F 3 "" H 2500 4300 50  0001 C CNN
-	1    2500 4300
-	-1   0    0    -1  
-$EndComp
 Wire Wire Line
 	2600 4250 2600 4150
 Wire Wire Line
@@ -635,17 +477,6 @@ F 7 "1MD3T1B1M1QE" H 5700 2850 50  0001 C CNN "Manufacturer Part Number"
 F 8 "401-692" H 5700 2850 50  0001 C CNN "Supplier Part Number"
 	1    5700 2850
 	0    -1   1    0   
-$EndComp
-$Comp
-L power:GND1 #PWR015
-U 1 1 5F62CA63
-P 4000 4300
-F 0 "#PWR015" H 4000 4050 50  0001 C CNN
-F 1 "GND1" H 4005 4127 50  0000 C CNN
-F 2 "" H 4000 4300 50  0001 C CNN
-F 3 "" H 4000 4300 50  0001 C CNN
-	1    4000 4300
-	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	5400 3850 5400 3800
@@ -801,40 +632,25 @@ F 8 "228-5944" H 2600 4000 50  0001 C CNN "Supplier Part Number"
 	1    2600 4000
 	0    -1   -1   0   
 $EndComp
+NoConn ~ 1250 3350
 Wire Wire Line
-	1450 2450 1450 2350
+	1400 3450 1400 3600
 Wire Wire Line
-	1300 2450 1450 2450
-NoConn ~ 1300 2550
-Wire Wire Line
-	1450 2650 1450 2800
-Wire Wire Line
-	1300 2650 1450 2650
+	1250 3450 1400 3450
 $Comp
 L Connector:Barrel_Jack_Switch_Pin3Ring J12-1
 U 1 1 5F76E997
-P 1000 2550
-F 0 "J12-1" H 1057 2867 50  0000 C CNN
-F 1 "Jack 2.1mm" H 1057 2776 50  0000 C CNN
-F 2 "ArnauldDev_Connector_BarrelJack:BarrelJack_FC681465P_Pin3_Horizontal" H 1050 2510 50  0001 C CNN
-F 3 "https://www.cliffuk.co.uk/products/dcconnectors/FC681465P.pdf" H 1050 2510 50  0001 C CNN
-F 4 "Alim 5 Vdc" H 1000 2550 50  0001 C CNN "Description"
-F 5 "RS Components" H 1000 2550 50  0001 C CNN "Supplier"
-F 6 "805-1699" H 1000 2550 50  0001 C CNN "Supplier Part Number"
-F 7 "CLIFF" H 1000 2550 50  0001 C CNN "Manufacturer"
-F 8 "FC681465P (DC-10LP)" H 1000 2550 50  0001 C CNN "Manufacturer Part Number"
-	1    1000 2550
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND1 #PWR014
-U 1 1 5F60E848
-P 1450 2800
-F 0 "#PWR014" H 1450 2550 50  0001 C CNN
-F 1 "GND1" H 1455 2627 50  0000 C CNN
-F 2 "" H 1450 2800 50  0001 C CNN
-F 3 "" H 1450 2800 50  0001 C CNN
-	1    1450 2800
+P 950 3350
+F 0 "J12-1" H 1007 3667 50  0000 C CNN
+F 1 "Jack 2.1mm" H 1007 3576 50  0000 C CNN
+F 2 "ArnauldDev_Connector_BarrelJack:BarrelJack_FC681465P_Pin3_Horizontal" H 1000 3310 50  0001 C CNN
+F 3 "https://www.cliffuk.co.uk/products/dcconnectors/FC681465P.pdf" H 1000 3310 50  0001 C CNN
+F 4 "Alim 5 Vdc" H 950 3350 50  0001 C CNN "Description"
+F 5 "RS Components" H 950 3350 50  0001 C CNN "Supplier"
+F 6 "805-1699" H 950 3350 50  0001 C CNN "Supplier Part Number"
+F 7 "CLIFF" H 950 3350 50  0001 C CNN "Manufacturer"
+F 8 "FC681465P (DC-10LP)" H 950 3350 50  0001 C CNN "Manufacturer Part Number"
+	1    950  3350
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1013,17 +829,6 @@ F 8 "144-1450" H 4350 5900 50  0001 C CNN "Supplier Part Number"
 	1    4350 5900
 	0    1    -1   0   
 $EndComp
-$Comp
-L power:GND2 #PWR019
-U 1 1 5F6A57CC
-P 2250 6150
-F 0 "#PWR019" H 2250 5900 50  0001 C CNN
-F 1 "GND2" H 2255 5977 50  0000 C CNN
-F 2 "" H 2250 6150 50  0001 C CNN
-F 3 "" H 2250 6150 50  0001 C CNN
-	1    2250 6150
-	-1   0    0    -1  
-$EndComp
 Text Notes 850  5350 0    50   ~ 0
 4x Fiche vertical
 Text Notes 1550 5350 0    50   ~ 0
@@ -1049,50 +854,6 @@ F 7 "223-2164" H 7100 3650 50  0001 C CNN "Supplier Part Number"
 F 8 "" H 7100 3650 50  0001 C CNN "Description"
 	1    7100 3650
 	-1   0    0    1   
-$EndComp
-$Comp
-L power:+5V #PWR09
-U 1 1 5F71B522
-P 1450 2350
-F 0 "#PWR09" H 1450 2200 50  0001 C CNN
-F 1 "+5V" H 1465 2523 50  0000 C CNN
-F 2 "" H 1450 2350 50  0001 C CNN
-F 3 "" H 1450 2350 50  0001 C CNN
-	1    1450 2350
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+5V #PWR011
-U 1 1 5F71C167
-P 4000 2600
-F 0 "#PWR011" H 4000 2450 50  0001 C CNN
-F 1 "+5V" H 4015 2773 50  0000 C CNN
-F 2 "" H 4000 2600 50  0001 C CNN
-F 3 "" H 4000 2600 50  0001 C CNN
-	1    4000 2600
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+5V #PWR012
-U 1 1 5F71C8AB
-P 5500 2600
-F 0 "#PWR012" H 5500 2450 50  0001 C CNN
-F 1 "+5V" H 5515 2773 50  0000 C CNN
-F 2 "" H 5500 2600 50  0001 C CNN
-F 3 "" H 5500 2600 50  0001 C CNN
-	1    5500 2600
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:+5V #PWR013
-U 1 1 5F71D4E8
-P 7000 2600
-F 0 "#PWR013" H 7000 2450 50  0001 C CNN
-F 1 "+5V" H 7015 2773 50  0000 C CNN
-F 2 "" H 7000 2600 50  0001 C CNN
-F 3 "" H 7000 2600 50  0001 C CNN
-	1    7000 2600
-	1    0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push_DPDT SW2
@@ -1158,25 +919,8 @@ Wire Wire Line
 	2850 6100 2850 6300
 Wire Wire Line
 	2250 6100 2250 6150
-Wire Wire Line
-	2250 950  2250 1000
-Wire Wire Line
-	2850 1150 2900 1150
-Wire Wire Line
-	2850 950  2850 1150
 Text GLabel 2900 6300 2    50   Output ~ 0
 RELAY_V1-
-$Comp
-L power:+5V #PWR03
-U 1 1 5F74549C
-P 1550 1000
-F 0 "#PWR03" H 1550 850 50  0001 C CNN
-F 1 "+5V" H 1565 1173 50  0000 C CNN
-F 2 "" H 1550 1000 50  0001 C CNN
-F 3 "" H 1550 1000 50  0001 C CNN
-	1    1550 1000
-	-1   0    0    1   
-$EndComp
 $Comp
 L Device:R R7
 U 1 1 5F74762D
@@ -1292,83 +1036,72 @@ $EndComp
 $Comp
 L Mechanical:MountingHole_Pad H1
 U 1 1 5F766BF3
-P 800 7300
-F 0 "H1" H 800 7495 50  0000 C CNN
-F 1 "MountingHole_Pad" H 800 7496 50  0001 C CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3_Pad" H 800 7300 50  0001 C CNN
-F 3 "~" H 800 7300 50  0001 C CNN
-F 4 "" H 800 7300 50  0001 C CNN "Description"
-	1    800  7300
+P 4350 7150
+F 0 "H1" H 4350 7345 50  0000 C CNN
+F 1 "MountingHole_Pad" H 4350 7346 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad" H 4350 7150 50  0001 C CNN
+F 3 "~" H 4350 7150 50  0001 C CNN
+F 4 "" H 4350 7150 50  0001 C CNN "Description"
+	1    4350 7150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole_Pad H2
 U 1 1 5F7C5085
-P 1000 7300
-F 0 "H2" H 1000 7495 50  0000 C CNN
-F 1 "MountingHole_Pad" H 1000 7496 50  0001 C CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3_Pad" H 1000 7300 50  0001 C CNN
-F 3 "~" H 1000 7300 50  0001 C CNN
-F 4 "" H 1000 7300 50  0001 C CNN "Description"
-	1    1000 7300
+P 4550 7150
+F 0 "H2" H 4550 7345 50  0000 C CNN
+F 1 "MountingHole_Pad" H 4550 7346 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad" H 4550 7150 50  0001 C CNN
+F 3 "~" H 4550 7150 50  0001 C CNN
+F 4 "" H 4550 7150 50  0001 C CNN "Description"
+	1    4550 7150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole_Pad H3
 U 1 1 5F7C5247
-P 1200 7300
-F 0 "H3" H 1200 7495 50  0000 C CNN
-F 1 "MountingHole_Pad" H 1200 7496 50  0001 C CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3_Pad" H 1200 7300 50  0001 C CNN
-F 3 "~" H 1200 7300 50  0001 C CNN
-F 4 "" H 1200 7300 50  0001 C CNN "Description"
-	1    1200 7300
+P 4750 7150
+F 0 "H3" H 4750 7345 50  0000 C CNN
+F 1 "MountingHole_Pad" H 4750 7346 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad" H 4750 7150 50  0001 C CNN
+F 3 "~" H 4750 7150 50  0001 C CNN
+F 4 "" H 4750 7150 50  0001 C CNN "Description"
+	1    4750 7150
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole_Pad H4
 U 1 1 5F7C5452
-P 1400 7300
-F 0 "H4" H 1350 7500 50  0000 L CNN
-F 1 "MountingHole_Pad" H 1400 7496 50  0001 C CNN
-F 2 "MountingHole:MountingHole_3.2mm_M3_Pad" H 1400 7300 50  0001 C CNN
-F 3 "~" H 1400 7300 50  0001 C CNN
-F 4 "" H 1400 7300 50  0001 C CNN "Description"
-	1    1400 7300
+P 4950 7150
+F 0 "H4" H 4900 7350 50  0000 L CNN
+F 1 "MountingHole_Pad" H 4950 7346 50  0001 C CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad" H 4950 7150 50  0001 C CNN
+F 3 "~" H 4950 7150 50  0001 C CNN
+F 4 "" H 4950 7150 50  0001 C CNN "Description"
+	1    4950 7150
 	1    0    0    -1  
 $EndComp
-$Comp
-L power:GND2 #PWR023
-U 1 1 5F7C5A18
-P 700 7500
-F 0 "#PWR023" H 700 7250 50  0001 C CNN
-F 1 "GND2" H 705 7327 50  0000 C CNN
-F 2 "" H 700 7500 50  0001 C CNN
-F 3 "" H 700 7500 50  0001 C CNN
-	1    700  7500
-	-1   0    0    -1  
-$EndComp
 Wire Wire Line
-	1400 7400 1400 7450
+	4950 7250 4950 7300
 Wire Wire Line
-	1400 7450 1200 7450
+	4950 7300 4750 7300
 Wire Wire Line
-	700  7450 700  7500
+	4250 7300 4250 7350
 Wire Wire Line
-	800  7400 800  7450
-Connection ~ 800  7450
+	4350 7250 4350 7300
+Connection ~ 4350 7300
 Wire Wire Line
-	800  7450 700  7450
+	4350 7300 4250 7300
 Wire Wire Line
-	1000 7400 1000 7450
-Connection ~ 1000 7450
+	4550 7250 4550 7300
+Connection ~ 4550 7300
 Wire Wire Line
-	1000 7450 800  7450
+	4550 7300 4350 7300
 Wire Wire Line
-	1200 7400 1200 7450
-Connection ~ 1200 7450
+	4750 7250 4750 7300
+Connection ~ 4750 7300
 Wire Wire Line
-	1200 7450 1000 7450
+	4750 7300 4550 7300
 $Comp
 L Connector_Generic:Conn_01x01 J16
 U 1 1 5F7E8FC3
@@ -1507,39 +1240,6 @@ Text GLabel 5900 6300 2    50   Output ~ 0
 RELAY_V3-
 Text GLabel 7400 6300 2    50   Output ~ 0
 RELAY_V4-
-$Comp
-L power:GND2 #PWR020
-U 1 1 5F823828
-P 3750 6150
-F 0 "#PWR020" H 3750 5900 50  0001 C CNN
-F 1 "GND2" H 3755 5977 50  0000 C CNN
-F 2 "" H 3750 6150 50  0001 C CNN
-F 3 "" H 3750 6150 50  0001 C CNN
-	1    3750 6150
-	-1   0    0    -1  
-$EndComp
-$Comp
-L power:GND2 #PWR021
-U 1 1 5F823E08
-P 5250 6150
-F 0 "#PWR021" H 5250 5900 50  0001 C CNN
-F 1 "GND2" H 5255 5977 50  0000 C CNN
-F 2 "" H 5250 6150 50  0001 C CNN
-F 3 "" H 5250 6150 50  0001 C CNN
-	1    5250 6150
-	-1   0    0    -1  
-$EndComp
-$Comp
-L power:GND2 #PWR022
-U 1 1 5F82406C
-P 6750 6150
-F 0 "#PWR022" H 6750 5900 50  0001 C CNN
-F 1 "GND2" H 6755 5977 50  0000 C CNN
-F 2 "" H 6750 6150 50  0001 C CNN
-F 3 "" H 6750 6150 50  0001 C CNN
-	1    6750 6150
-	-1   0    0    -1  
-$EndComp
 Wire Wire Line
 	3750 6100 3750 6150
 Wire Wire Line
@@ -1581,25 +1281,25 @@ Text Notes 4450 1700 0    50   ~ 0
 Wire Wire Line
 	3750 950  3750 1000
 Wire Wire Line
-	4350 950  4350 1150
+	4350 950  4350 1100
 Wire Wire Line
-	4350 1150 4400 1150
+	4350 1100 4400 1100
 Wire Wire Line
 	9550 950  9550 1000
 Wire Wire Line
-	8850 950  8850 1150
+	8850 950  8850 1100
 Wire Wire Line
-	8850 1150 8800 1150
+	8850 1100 8800 1100
 Wire Wire Line
-	10300 950  10300 1150
+	10300 950  10300 1100
 Wire Wire Line
-	10300 1150 10350 1150
+	10300 1100 10350 1100
 Wire Wire Line
 	5250 950  5250 1000
 Wire Wire Line
-	7350 950  7350 1150
+	7350 950  7350 1100
 Wire Wire Line
-	7350 1150 7400 1150
+	7350 1100 7400 1100
 Wire Notes Line style solid
 	2000 1300 2000 1350
 Wire Notes Line style solid
@@ -1626,12 +1326,12 @@ Wire Notes Line style solid
 	11100 1350 11100 1300
 Wire Notes Line style solid
 	9550 1350 9550 1400
-Text Notes 750  4400 0    50   ~ 0
+Text Notes 700  2200 0    50   ~ 0
 Connecteurs Alim LED\nà gauche du boitier
 Wire Wire Line
-	5900 1150 5850 1150
+	5900 1100 5850 1100
 Wire Wire Line
-	5850 1150 5850 950 
+	5850 1100 5850 950 
 Wire Wire Line
 	6750 950  6750 1000
 $Comp
@@ -1656,17 +1356,6 @@ Wire Wire Line
 	2900 2500 2900 2650
 Wire Wire Line
 	2500 2650 2500 2600
-$Comp
-L power:+5V #PWR010
-U 1 1 5F71BD27
-P 2500 2600
-F 0 "#PWR010" H 2500 2450 50  0001 C CNN
-F 1 "+5V" H 2515 2773 50  0000 C CNN
-F 2 "" H 2500 2600 50  0001 C CNN
-F 3 "" H 2500 2600 50  0001 C CNN
-	1    2500 2600
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	3200 2500 3200 4000
 Wire Wire Line
@@ -1681,51 +1370,449 @@ Wire Wire Line
 	4400 2500 4700 2500
 Wire Wire Line
 	4700 2500 4700 4000
+NoConn ~ 1250 4100
 Wire Wire Line
-	1450 3500 1450 3400
+	1400 4200 1400 4350
 Wire Wire Line
-	1300 3500 1450 3500
-NoConn ~ 1300 3600
-Wire Wire Line
-	1450 3700 1450 3850
-Wire Wire Line
-	1300 3700 1450 3700
+	1250 4200 1400 4200
 $Comp
 L Connector:Barrel_Jack_Switch_Pin3Ring J12-2
 U 1 1 5F6D55FD
-P 1000 3600
-F 0 "J12-2" H 1057 3917 50  0000 C CNN
-F 1 "Jack 2.1mm" H 1057 3826 50  0000 C CNN
-F 2 "ArnauldDev_Connector_BarrelJack:BarrelJack_FC681465P_Pin3_Horizontal" H 1050 3560 50  0001 C CNN
-F 3 "https://www.cliffuk.co.uk/products/dcconnectors/FC681465P.pdf" H 1050 3560 50  0001 C CNN
-F 4 "Alim 5 Vdc" H 1000 3600 50  0001 C CNN "Description"
-F 5 "RS Components" H 1000 3600 50  0001 C CNN "Supplier"
-F 6 "805-1699" H 1000 3600 50  0001 C CNN "Supplier Part Number"
-F 7 "CLIFF" H 1000 3600 50  0001 C CNN "Manufacturer"
-F 8 "FC681465P (DC-10LP)" H 1000 3600 50  0001 C CNN "Manufacturer Part Number"
-	1    1000 3600
+P 950 4100
+F 0 "J12-2" H 1007 4417 50  0000 C CNN
+F 1 "Jack 2.1mm" H 1007 4326 50  0000 C CNN
+F 2 "ArnauldDev_Connector_BarrelJack:BarrelJack_FC681465P_Pin3_Horizontal" H 1000 4060 50  0001 C CNN
+F 3 "https://www.cliffuk.co.uk/products/dcconnectors/FC681465P.pdf" H 1000 4060 50  0001 C CNN
+F 4 "Alim 5 Vdc" H 950 4100 50  0001 C CNN "Description"
+F 5 "RS Components" H 950 4100 50  0001 C CNN "Supplier"
+F 6 "805-1699" H 950 4100 50  0001 C CNN "Supplier Part Number"
+F 7 "CLIFF" H 950 4100 50  0001 C CNN "Manufacturer"
+F 8 "FC681465P (DC-10LP)" H 950 4100 50  0001 C CNN "Manufacturer Part Number"
+	1    950  4100
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND1 #PWR?
-U 1 1 5F6D5607
-P 1450 3850
-F 0 "#PWR?" H 1450 3600 50  0001 C CNN
-F 1 "GND1" H 1455 3677 50  0000 C CNN
-F 2 "" H 1450 3850 50  0001 C CNN
-F 3 "" H 1450 3850 50  0001 C CNN
-	1    1450 3850
+L Connector_Generic:Conn_01x02 J12-0
+U 1 1 5F6FA3A1
+P 950 2700
+F 0 "J12-0" H 868 2917 50  0000 C CNN
+F 1 "Conn_01x02" H 868 2826 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal" H 950 2700 50  0001 C CNN
+F 3 "~" H 950 2700 50  0001 C CNN
+	1    950  2700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L power:+VDC #PWR0101
+U 1 1 5F7587A6
+P 1600 2600
+F 0 "#PWR0101" H 1600 2500 50  0001 C CNN
+F 1 "+VDC" H 1600 2875 50  0000 C CNN
+F 2 "" H 1600 2600 50  0001 C CNN
+F 3 "" H 1600 2600 50  0001 C CNN
+	1    1600 2600
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5V #PWR?
-U 1 1 5F6D5611
-P 1450 3400
-F 0 "#PWR?" H 1450 3250 50  0001 C CNN
-F 1 "+5V" H 1465 3573 50  0000 C CNN
-F 2 "" H 1450 3400 50  0001 C CNN
-F 3 "" H 1450 3400 50  0001 C CNN
-	1    1450 3400
+L power:+5VD #PWR0102
+U 1 1 5F75B9E9
+P 1200 2800
+F 0 "#PWR0102" H 1200 2650 50  0001 C CNN
+F 1 "+5VD" V 1215 2928 50  0000 L CNN
+F 2 "" H 1200 2800 50  0001 C CNN
+F 3 "" H 1200 2800 50  0001 C CNN
+	1    1200 2800
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GNDD #PWR0103
+U 1 1 5F75CD53
+P 1400 3600
+F 0 "#PWR0103" H 1400 3350 50  0001 C CNN
+F 1 "GNDD" H 1404 3445 50  0000 C CNN
+F 2 "" H 1400 3600 50  0001 C CNN
+F 3 "" H 1400 3600 50  0001 C CNN
+	1    1400 3600
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	1600 2600 1600 2700
+Wire Wire Line
+	1600 2700 1150 2700
+Wire Wire Line
+	1600 3250 1600 2700
+Wire Wire Line
+	1250 3250 1600 3250
+Connection ~ 1600 2700
+Wire Wire Line
+	1600 4000 1600 3250
+Wire Wire Line
+	1250 4000 1600 4000
+Connection ~ 1600 3250
+Wire Wire Line
+	1200 2800 1150 2800
+$Comp
+L power:+5VD #PWR0104
+U 1 1 5F79192D
+P 2500 2600
+F 0 "#PWR0104" H 2500 2450 50  0001 C CNN
+F 1 "+5VD" H 2515 2773 50  0000 C CNN
+F 2 "" H 2500 2600 50  0001 C CNN
+F 3 "" H 2500 2600 50  0001 C CNN
+	1    2500 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDD #PWR0105
+U 1 1 5F7921AA
+P 850 1500
+F 0 "#PWR0105" H 850 1250 50  0001 C CNN
+F 1 "GNDD" H 854 1345 50  0000 C CNN
+F 2 "" H 850 1500 50  0001 C CNN
+F 3 "" H 850 1500 50  0001 C CNN
+	1    850  1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDD #PWR0106
+U 1 1 5F793D16
+P 1400 4350
+F 0 "#PWR0106" H 1400 4100 50  0001 C CNN
+F 1 "GNDD" H 1404 4195 50  0000 C CNN
+F 2 "" H 1400 4350 50  0001 C CNN
+F 3 "" H 1400 4350 50  0001 C CNN
+	1    1400 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDD #PWR0107
+U 1 1 5F79416C
+P 2500 4350
+F 0 "#PWR0107" H 2500 4100 50  0001 C CNN
+F 1 "GNDD" H 2504 4195 50  0000 C CNN
+F 2 "" H 2500 4350 50  0001 C CNN
+F 3 "" H 2500 4350 50  0001 C CNN
+	1    2500 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDD #PWR0108
+U 1 1 5F794838
+P 4000 4350
+F 0 "#PWR0108" H 4000 4100 50  0001 C CNN
+F 1 "GNDD" H 4004 4195 50  0000 C CNN
+F 2 "" H 4000 4350 50  0001 C CNN
+F 3 "" H 4000 4350 50  0001 C CNN
+	1    4000 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDD #PWR0109
+U 1 1 5F794DD0
+P 5500 4350
+F 0 "#PWR0109" H 5500 4100 50  0001 C CNN
+F 1 "GNDD" H 5504 4195 50  0000 C CNN
+F 2 "" H 5500 4350 50  0001 C CNN
+F 3 "" H 5500 4350 50  0001 C CNN
+	1    5500 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDD #PWR0110
+U 1 1 5F79513F
+P 7000 4350
+F 0 "#PWR0110" H 7000 4100 50  0001 C CNN
+F 1 "GNDD" H 7004 4195 50  0000 C CNN
+F 2 "" H 7000 4350 50  0001 C CNN
+F 3 "" H 7000 4350 50  0001 C CNN
+	1    7000 4350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7000 4250 7000 4350
+Wire Wire Line
+	5500 4250 5500 4350
+Wire Wire Line
+	4000 4250 4000 4350
+Wire Wire Line
+	2500 4250 2500 4350
+$Comp
+L power:GNDPWR #PWR0111
+U 1 1 5F7B3003
+P 1400 1500
+F 0 "#PWR0111" H 1400 1300 50  0001 C CNN
+F 1 "GNDPWR" H 1404 1346 50  0000 C CNN
+F 2 "" H 1400 1450 50  0001 C CNN
+F 3 "" H 1400 1450 50  0001 C CNN
+	1    1400 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 5F7D19B7
+P 850 900
+F 0 "#FLG0101" H 850 975 50  0001 C CNN
+F 1 "PWR_FLAG" H 850 1073 50  0000 C CNN
+F 2 "" H 850 900 50  0001 C CNN
+F 3 "~" H 850 900 50  0001 C CNN
+	1    850  900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+VDC #PWR0112
+U 1 1 5F7D93E4
+P 850 900
+F 0 "#PWR0112" H 850 800 50  0001 C CNN
+F 1 "+VDC" H 850 1175 50  0000 C CNN
+F 2 "" H 850 900 50  0001 C CNN
+F 3 "" H 850 900 50  0001 C CNN
+	1    850  900 
+	-1   0    0    1   
+$EndComp
+Wire Notes Line
+	500  500  500  1750
+Wire Notes Line
+	1850 500  1850 1750
+$Comp
+L power:+5VD #PWR0113
+U 1 1 5F806907
+P 1400 950
+F 0 "#PWR0113" H 1400 800 50  0001 C CNN
+F 1 "+5VD" H 1415 1123 50  0000 C CNN
+F 2 "" H 1400 950 50  0001 C CNN
+F 3 "" H 1400 950 50  0001 C CNN
+	1    1400 950 
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:+5VD #PWR0114
+U 1 1 5F807821
+P 4000 2600
+F 0 "#PWR0114" H 4000 2450 50  0001 C CNN
+F 1 "+5VD" H 4015 2773 50  0000 C CNN
+F 2 "" H 4000 2600 50  0001 C CNN
+F 3 "" H 4000 2600 50  0001 C CNN
+	1    4000 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5VD #PWR0115
+U 1 1 5F807D2C
+P 5500 2600
+F 0 "#PWR0115" H 5500 2450 50  0001 C CNN
+F 1 "+5VD" H 5515 2773 50  0000 C CNN
+F 2 "" H 5500 2600 50  0001 C CNN
+F 3 "" H 5500 2600 50  0001 C CNN
+	1    5500 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5VD #PWR0116
+U 1 1 5F80817B
+P 7000 2600
+F 0 "#PWR0116" H 7000 2450 50  0001 C CNN
+F 1 "+5VD" H 7015 2773 50  0000 C CNN
+F 2 "" H 7000 2600 50  0001 C CNN
+F 3 "" H 7000 2600 50  0001 C CNN
+	1    7000 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDPWR #PWR0117
+U 1 1 5F808C25
+P 2250 6150
+F 0 "#PWR0117" H 2250 5950 50  0001 C CNN
+F 1 "GNDPWR" H 2254 5996 50  0000 C CNN
+F 2 "" H 2250 6100 50  0001 C CNN
+F 3 "" H 2250 6100 50  0001 C CNN
+	1    2250 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDPWR #PWR0118
+U 1 1 5F809A40
+P 3750 6150
+F 0 "#PWR0118" H 3750 5950 50  0001 C CNN
+F 1 "GNDPWR" H 3754 5996 50  0000 C CNN
+F 2 "" H 3750 6100 50  0001 C CNN
+F 3 "" H 3750 6100 50  0001 C CNN
+	1    3750 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDPWR #PWR0119
+U 1 1 5F809F7E
+P 5250 6150
+F 0 "#PWR0119" H 5250 5950 50  0001 C CNN
+F 1 "GNDPWR" H 5254 5996 50  0000 C CNN
+F 2 "" H 5250 6100 50  0001 C CNN
+F 3 "" H 5250 6100 50  0001 C CNN
+	1    5250 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDPWR #PWR0120
+U 1 1 5F80A2F4
+P 6750 6150
+F 0 "#PWR0120" H 6750 5950 50  0001 C CNN
+F 1 "GNDPWR" H 6754 5996 50  0000 C CNN
+F 2 "" H 6750 6100 50  0001 C CNN
+F 3 "" H 6750 6100 50  0001 C CNN
+	1    6750 6150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDPWR #PWR0121
+U 1 1 5F80BC9D
+P 3750 1000
+F 0 "#PWR0121" H 3750 800 50  0001 C CNN
+F 1 "GNDPWR" H 3754 846 50  0000 C CNN
+F 2 "" H 3750 950 50  0001 C CNN
+F 3 "" H 3750 950 50  0001 C CNN
+	1    3750 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDPWR #PWR0122
+U 1 1 5F80C17F
+P 5250 1000
+F 0 "#PWR0122" H 5250 800 50  0001 C CNN
+F 1 "GNDPWR" H 5254 846 50  0000 C CNN
+F 2 "" H 5250 950 50  0001 C CNN
+F 3 "" H 5250 950 50  0001 C CNN
+	1    5250 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDPWR #PWR0123
+U 1 1 5F80CE56
+P 6750 1000
+F 0 "#PWR0123" H 6750 800 50  0001 C CNN
+F 1 "GNDPWR" H 6754 846 50  0000 C CNN
+F 2 "" H 6750 950 50  0001 C CNN
+F 3 "" H 6750 950 50  0001 C CNN
+	1    6750 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDPWR #PWR0124
+U 1 1 5F80D390
+P 9550 1000
+F 0 "#PWR0124" H 9550 800 50  0001 C CNN
+F 1 "GNDPWR" H 9554 846 50  0000 C CNN
+F 2 "" H 9550 950 50  0001 C CNN
+F 3 "" H 9550 950 50  0001 C CNN
+	1    9550 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GNDPWR #PWR0125
+U 1 1 5F757AB9
+P 2250 1000
+F 0 "#PWR0125" H 2250 800 50  0001 C CNN
+F 1 "GNDPWR" H 2254 846 50  0000 C CNN
+F 2 "" H 2250 950 50  0001 C CNN
+F 3 "" H 2250 950 50  0001 C CNN
+	1    2250 1000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2850 950  2850 1100
+Wire Wire Line
+	2850 1100 2900 1100
+Wire Wire Line
+	2250 950  2250 1000
+Text GLabel 2900 1100 2    50   Output ~ 0
+Alim_V1
+$Comp
+L Connector_Generic:Conn_01x01 J1
+U 1 1 5F61421E
+P 2250 750
+F 0 "J1" V 2259 830 50  0000 L CNN
+F 1 "Black" V 2168 830 50  0000 L CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 2250 750 50  0001 C CNN
+F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 2250 750 50  0001 C CNN
+F 4 "Alim 1 -" V 2077 830 50  0000 L CNN "Description"
+F 5 "RS Components" H 2250 750 50  0001 C CNN "Supplier"
+F 6 "Schutzinger" H 2250 750 50  0001 C CNN "Manufacturer"
+F 7 "SWEB 8094 Au / SW" H 2250 750 50  0001 C CNN "Manufacturer Part Number"
+F 8 "144-1451" H 2250 750 50  0001 C CNN "Supplier Part Number"
+	1    2250 750 
+	0    1    -1   0   
+$EndComp
+Wire Notes Line
+	3400 1250 2000 1250
+$Comp
+L Connector_Generic:Conn_01x01 J2
+U 1 1 5F5A7FAB
+P 2850 750
+F 0 "J2" V 2859 830 50  0000 L CNN
+F 1 "Red" V 2768 830 50  0000 L CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 2850 750 50  0001 C CNN
+F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 2850 750 50  0001 C CNN
+F 4 "Alim 1 +" V 2677 830 50  0000 L CNN "Description"
+F 5 "RS Components" H 2850 750 50  0001 C CNN "Supplier"
+F 6 "Schutzinger" H 2850 750 50  0001 C CNN "Manufacturer"
+F 7 "SWEB 8094 Au / RT" H 2850 750 50  0001 C CNN "Manufacturer Part Number"
+F 8 "144-1450" H 2850 750 50  0001 C CNN "Supplier Part Number"
+	1    2850 750 
+	0    1    -1   0   
+$EndComp
+$Comp
+L power:GNDPWR #PWR0126
+U 1 1 5F847611
+P 4250 7350
+F 0 "#PWR0126" H 4250 7150 50  0001 C CNN
+F 1 "GNDPWR" H 4254 7196 50  0000 C CNN
+F 2 "" H 4250 7300 50  0001 C CNN
+F 3 "" H 4250 7300 50  0001 C CNN
+	1    4250 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Graphic:Logo_Open_Hardware_Small #LOGO1
+U 1 1 5F84A1EB
+P 6100 7150
+F 0 "#LOGO1" H 6100 7425 50  0001 C CNN
+F 1 "Logo_Open_Hardware_Small" H 6100 6925 50  0001 C CNN
+F 2 "" H 6100 7150 50  0001 C CNN
+F 3 "https://www.oshwa.org/" H 6100 7150 50  0001 C CNN
+F 4 "OSHW-Logo2_24.3x20mm_SilkScreen" H 6100 7150 50  0001 C CNN "SilkScreen"
+	1    6100 7150
+	1    0    0    -1  
+$EndComp
+Text Notes 5950 7500 0    59   Italic 12
+OSHW
+Text Notes 4300 6700 0    50   Italic 10
+Mounting Holes
+Text Notes 5650 6700 0    50   Italic 10
+Open Source Hardware
+Wire Notes Line
+	6800 6600 5400 6600
+Wire Notes Line
+	5400 6600 5400 7650
+Wire Notes Line
+	5400 7650 6800 7650
+Wire Notes Line
+	6800 7650 6800 6600
+Wire Notes Line
+	5400 6750 6800 6750
+Wire Notes Line
+	5300 6600 3900 6600
+Wire Notes Line
+	3900 6600 3900 7650
+Wire Notes Line
+	3900 7650 5300 7650
+Wire Notes Line
+	5300 7650 5300 6600
+Wire Notes Line
+	3900 6750 5300 6750
+Wire Notes Line width 20 style solid
+	850  2800 750  2800
+Wire Notes Line width 20 style solid
+	750  2800 750  2700
+Wire Notes Line width 20 style solid
+	750  2700 850  2700
+Text Notes 700  2800 2    50   ~ 0
+LED\nON
 $EndSCHEMATC
