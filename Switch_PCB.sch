@@ -19,7 +19,7 @@ U 1 1 5F5C0321
 P 4350 750
 F 0 "J4" V 4359 830 50  0000 L CNN
 F 1 "Red" V 4268 830 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 4350 750 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Red" H 4350 750 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 4350 750 50  0001 C CNN
 F 4 "Alim 2 +" V 4177 830 50  0000 L CNN "Description"
 F 5 "RS Components" H 4350 750 50  0001 C CNN "Supplier"
@@ -35,7 +35,7 @@ U 1 1 5F5C1479
 P 8850 750
 F 0 "J9" V 8859 830 50  0000 L CNN
 F 1 "Red" V 8768 830 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 8850 750 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Red" H 8850 750 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 8850 750 50  0001 C CNN
 F 4 "Keithley Chan A" V 8677 830 50  0000 L CNN "Description"
 F 5 "RS Components" H 8850 750 50  0001 C CNN "Supplier"
@@ -51,7 +51,7 @@ U 1 1 5F5F5FDD
 P 5850 750
 F 0 "J6" V 5859 830 50  0000 L CNN
 F 1 "Red" V 5768 830 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 5850 750 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Red" H 5850 750 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 5850 750 50  0001 C CNN
 F 4 "Alim 3 +" V 5677 830 50  0000 L CNN "Description"
 F 5 "RS Components" H 5850 750 50  0001 C CNN "Supplier"
@@ -67,7 +67,7 @@ U 1 1 5F5F601D
 P 7350 750
 F 0 "J8" V 7359 830 50  0000 L CNN
 F 1 "Red" V 7268 830 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 7350 750 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Red" H 7350 750 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 7350 750 50  0001 C CNN
 F 4 "Alim 4 +" V 7177 830 50  0000 L CNN "Description"
 F 5 "RS Components" H 7350 750 50  0001 C CNN "Supplier"
@@ -83,7 +83,7 @@ U 1 1 5F5C4404
 P 2850 5000
 F 0 "J14" V 2859 5080 50  0000 L CNN
 F 1 "Red" V 2768 5080 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical" H 2850 5000 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical_Red" H 2850 5000 50  0001 C CNN
 F 3 "https://ec.staubli.com/AcroFiles/MA/TM_MAH565_(de-en-fr).pdf" H 2850 5000 50  0001 C CNN
 F 4 "Staubli" H 2850 5000 50  0001 C CNN "Manufacturer"
 F 5 "66.9032-22" H 2850 5000 50  0001 C CNN "Manufacturer Part Number"
@@ -99,7 +99,7 @@ U 1 1 5F5F603D
 P 10300 750
 F 0 "J11" V 10309 830 50  0000 L CNN
 F 1 "Red" V 10218 830 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 10300 750 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Red" H 10300 750 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 10300 750 50  0001 C CNN
 F 4 "Keithley Chan B" V 10127 830 50  0000 L CNN "Description"
 F 5 "RS Components" H 10300 750 50  0001 C CNN "Supplier"
@@ -115,7 +115,7 @@ U 1 1 5F613E51
 P 9550 750
 F 0 "J10" V 9514 830 50  0000 L CNN
 F 1 "Black" V 9423 830 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 9550 750 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 9550 750 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 9550 750 50  0001 C CNN
 F 4 "GND" H 9550 750 50  0001 C CNN "Description"
 F 5 "RS Components" H 9550 750 50  0001 C CNN "Supplier"
@@ -238,7 +238,7 @@ U 1 1 5F68ED51
 P 6750 750
 F 0 "J7" V 6759 830 50  0000 L CNN
 F 1 "Black" V 6668 830 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 6750 750 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 6750 750 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 6750 750 50  0001 C CNN
 F 4 "Alim 1 -" V 6577 830 50  0000 L CNN "Description"
 F 5 "RS Components" H 6750 750 50  0001 C CNN "Supplier"
@@ -254,7 +254,7 @@ U 1 1 5F66F6A6
 P 5250 750
 F 0 "J5" V 5259 830 50  0000 L CNN
 F 1 "Black" V 5168 830 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 5250 750 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 5250 750 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 5250 750 50  0001 C CNN
 F 4 "Alim 1 -" V 5077 830 50  0000 L CNN "Description"
 F 5 "RS Components" H 5250 750 50  0001 C CNN "Supplier"
@@ -270,7 +270,7 @@ U 1 1 5F66D6BF
 P 3750 750
 F 0 "J3" V 3759 830 50  0000 L CNN
 F 1 "Black" V 3668 830 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 3750 750 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 3750 750 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 3750 750 50  0001 C CNN
 F 4 "Alim 1 -" V 3577 830 50  0000 L CNN "Description"
 F 5 "RS Components" H 3750 750 50  0001 C CNN "Supplier"
@@ -306,7 +306,7 @@ U 1 1 5F886FA7
 P 2250 5000
 F 0 "J13" V 2259 5080 50  0000 L CNN
 F 1 "Black" V 2168 5080 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical" H 2250 5000 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical_Black" H 2250 5000 50  0001 C CNN
 F 3 "https://ec.staubli.com/AcroFiles/MA/TM_MAH565_(de-en-fr).pdf" H 2250 5000 50  0001 C CNN
 F 4 "Staubli" H 2250 5000 50  0001 C CNN "Manufacturer"
 F 5 "66.9032-21" H 2250 5000 50  0001 C CNN "Manufacturer Part Number"
@@ -659,7 +659,7 @@ U 1 1 5F6A5740
 P 5850 5900
 F 0 "J26" V 5859 5980 50  0000 L CNN
 F 1 "Red" V 5768 5980 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 5850 5900 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Red" H 5850 5900 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 5850 5900 50  0001 C CNN
 F 4 "OLED 3 +" V 5677 5980 50  0000 L CNN "Description"
 F 5 "RS Components" H 5850 5900 50  0001 C CNN "Supplier"
@@ -675,7 +675,7 @@ U 1 1 5F6A574A
 P 2850 5900
 F 0 "J22" V 2859 5980 50  0000 L CNN
 F 1 "Red" V 2768 5980 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 2850 5900 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Red" H 2850 5900 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 2850 5900 50  0001 C CNN
 F 4 "OLED 1 +" V 2677 5980 50  0000 L CNN "Description"
 F 5 "RS Components" H 2850 5900 50  0001 C CNN "Supplier"
@@ -691,7 +691,7 @@ U 1 1 5F6A5754
 P 7350 5900
 F 0 "J28" V 7359 5980 50  0000 L CNN
 F 1 "Red" V 7268 5980 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 7350 5900 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Red" H 7350 5900 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 7350 5900 50  0001 C CNN
 F 4 "OLED 4 +" V 7177 5980 50  0000 L CNN "Description"
 F 5 "RS Components" H 7350 5900 50  0001 C CNN "Supplier"
@@ -719,7 +719,7 @@ U 1 1 5F6A5764
 P 2250 5900
 F 0 "J21" V 2214 5980 50  0000 L CNN
 F 1 "Black" V 2123 5980 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 2250 5900 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 2250 5900 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 2250 5900 50  0001 C CNN
 F 4 "GND" H 2250 5900 50  0001 C CNN "Description"
 F 5 "RS Components" H 2250 5900 50  0001 C CNN "Supplier"
@@ -747,7 +747,7 @@ U 1 1 5F6A577D
 P 3750 5900
 F 0 "J23" V 3714 5980 50  0000 L CNN
 F 1 "Black" V 3623 5980 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 3750 5900 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 3750 5900 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 3750 5900 50  0001 C CNN
 F 4 "GND" H 3750 5900 50  0001 C CNN "Description"
 F 5 "RS Components" H 3750 5900 50  0001 C CNN "Supplier"
@@ -775,7 +775,7 @@ U 1 1 5F6A5796
 P 5250 5900
 F 0 "J25" V 5214 5980 50  0000 L CNN
 F 1 "Black" V 5123 5980 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 5250 5900 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 5250 5900 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 5250 5900 50  0001 C CNN
 F 4 "GND" H 5250 5900 50  0001 C CNN "Description"
 F 5 "RS Components" H 5250 5900 50  0001 C CNN "Supplier"
@@ -803,7 +803,7 @@ U 1 1 5F6A57AF
 P 6750 5900
 F 0 "J27" V 6714 5980 50  0000 L CNN
 F 1 "Black" V 6623 5980 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 6750 5900 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 6750 5900 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 6750 5900 50  0001 C CNN
 F 4 "GND" H 6750 5900 50  0001 C CNN "Description"
 F 5 "RS Components" H 6750 5900 50  0001 C CNN "Supplier"
@@ -819,7 +819,7 @@ U 1 1 5F6A57C2
 P 4350 5900
 F 0 "J24" V 4359 5980 50  0000 L CNN
 F 1 "Red" V 4268 5980 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 4350 5900 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Red" H 4350 5900 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 4350 5900 50  0001 C CNN
 F 4 "OLED 2 +" V 4177 5980 50  0000 L CNN "Description"
 F 5 "RS Components" H 4350 5900 50  0001 C CNN "Supplier"
@@ -1108,7 +1108,7 @@ U 1 1 5F7E8FC3
 P 4350 5000
 F 0 "J16" V 4359 5080 50  0000 L CNN
 F 1 "Red" V 4268 5080 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical" H 4350 5000 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical_Red" H 4350 5000 50  0001 C CNN
 F 3 "https://ec.staubli.com/AcroFiles/MA/TM_MAH565_(de-en-fr).pdf" H 4350 5000 50  0001 C CNN
 F 4 "Staubli" H 4350 5000 50  0001 C CNN "Manufacturer"
 F 5 "66.9032-22" H 4350 5000 50  0001 C CNN "Manufacturer Part Number"
@@ -1124,7 +1124,7 @@ U 1 1 5F7E8FD2
 P 3750 5000
 F 0 "J15" V 3759 5080 50  0000 L CNN
 F 1 "Black" V 3668 5080 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical" H 3750 5000 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical_Black" H 3750 5000 50  0001 C CNN
 F 3 "https://ec.staubli.com/AcroFiles/MA/TM_MAH565_(de-en-fr).pdf" H 3750 5000 50  0001 C CNN
 F 4 "Staubli" H 3750 5000 50  0001 C CNN "Manufacturer"
 F 5 "66.9032-21" H 3750 5000 50  0001 C CNN "Manufacturer Part Number"
@@ -1152,7 +1152,7 @@ U 1 1 5F7F0C84
 P 5850 5000
 F 0 "J18" V 5859 5080 50  0000 L CNN
 F 1 "Red" V 5768 5080 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical" H 5850 5000 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical_Red" H 5850 5000 50  0001 C CNN
 F 3 "https://ec.staubli.com/AcroFiles/MA/TM_MAH565_(de-en-fr).pdf" H 5850 5000 50  0001 C CNN
 F 4 "Staubli" H 5850 5000 50  0001 C CNN "Manufacturer"
 F 5 "66.9032-22" H 5850 5000 50  0001 C CNN "Manufacturer Part Number"
@@ -1168,7 +1168,7 @@ U 1 1 5F7F0C93
 P 5250 5000
 F 0 "J17" V 5259 5080 50  0000 L CNN
 F 1 "Black" V 5168 5080 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical" H 5250 5000 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical_Black" H 5250 5000 50  0001 C CNN
 F 3 "https://ec.staubli.com/AcroFiles/MA/TM_MAH565_(de-en-fr).pdf" H 5250 5000 50  0001 C CNN
 F 4 "Staubli" H 5250 5000 50  0001 C CNN "Manufacturer"
 F 5 "66.9032-21" H 5250 5000 50  0001 C CNN "Manufacturer Part Number"
@@ -1196,7 +1196,7 @@ U 1 1 5F7FAB59
 P 7350 5000
 F 0 "J20" V 7359 5080 50  0000 L CNN
 F 1 "Red" V 7268 5080 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical" H 7350 5000 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical_Red" H 7350 5000 50  0001 C CNN
 F 3 "https://ec.staubli.com/AcroFiles/MA/TM_MAH565_(de-en-fr).pdf" H 7350 5000 50  0001 C CNN
 F 4 "Staubli" H 7350 5000 50  0001 C CNN "Manufacturer"
 F 5 "66.9032-22" H 7350 5000 50  0001 C CNN "Manufacturer Part Number"
@@ -1212,7 +1212,7 @@ U 1 1 5F7FAB68
 P 6750 5000
 F 0 "J19" V 6759 5080 50  0000 L CNN
 F 1 "Black" V 6668 5080 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical" H 6750 5000 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical_Black" H 6750 5000 50  0001 C CNN
 F 3 "https://ec.staubli.com/AcroFiles/MA/TM_MAH565_(de-en-fr).pdf" H 6750 5000 50  0001 C CNN
 F 4 "Staubli" H 6750 5000 50  0001 C CNN "Manufacturer"
 F 5 "66.9032-21" H 6750 5000 50  0001 C CNN "Manufacturer Part Number"
@@ -1730,7 +1730,7 @@ U 1 1 5F61421E
 P 2250 750
 F 0 "J1" V 2259 830 50  0000 L CNN
 F 1 "Black" V 2168 830 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 2250 750 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 2250 750 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 2250 750 50  0001 C CNN
 F 4 "Alim 1 -" V 2077 830 50  0000 L CNN "Description"
 F 5 "RS Components" H 2250 750 50  0001 C CNN "Supplier"
@@ -1748,7 +1748,7 @@ U 1 1 5F5A7FAB
 P 2850 750
 F 0 "J2" V 2859 830 50  0000 L CNN
 F 1 "Red" V 2768 830 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal" H 2850 750 50  0001 C CNN
+F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Red" H 2850 750 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 2850 750 50  0001 C CNN
 F 4 "Alim 1 +" V 2677 830 50  0000 L CNN "Description"
 F 5 "RS Components" H 2850 750 50  0001 C CNN "Supplier"
