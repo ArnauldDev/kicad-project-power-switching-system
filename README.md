@@ -1,10 +1,20 @@
-# kicad-project-power-switching-system
+# kicad project power switching system
 
 Power switching system
 
 [Fr] Carte 4 interrupteurs de commutation d'alimentation
 
 [Fr] Réalisation d'une carte "Carte switch Alim" v0.1.0
+
+## Feuille de route (check list)
+
+- [x] Analyse du cahier des charges
+- [x] Choix des composants et du boitier
+- [x] Validation de la schématique
+- [x] Définition du contour du PCB à partir des dimensions internes du boitier
+- [x] Validation du placement des composants et vérouillage des empreintes
+- [ ] Validation du routage
+- [ ] Validation de la sérigraphie
 
 ![schematic-switching-external-pwr-supplies](Docs/schematic-switching-external-pwr-supplies.png)
 
