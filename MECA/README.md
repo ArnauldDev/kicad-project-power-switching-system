@@ -6,6 +6,8 @@ Référence fabricant [1599HGYBAT](https://www.hammfg.com/part/1599HGYBAT)
 
 Marque Hammond
 
+Fixer les LED entre 16 et **18** mm du haut par rapport au plan Top du PCB.
+
 Prévoir colonnette ou entretoise pour réhausser la carte de :
 
 * 18.52 mm depuis l'extrémité supérieur des colonnettes du boitier, diamètre extérieur 5.5 mm

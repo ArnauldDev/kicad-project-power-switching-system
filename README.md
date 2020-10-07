@@ -18,6 +18,18 @@ Realization of a power supply board with four switches for switching between sev
 
 ---
 
+## Tools used
+
+### KiCad
+
+[KiCad EDA - Schematic Capture & PCB Design Software](https://kicad-pcb.org/), version: 5.1.7
+
+Open source EDA / electronics CAD software for Windows, macOS and Linux.
+
+### FreeCAD - 3D parametric modeler
+
+[FreeCAD](https://www.freecadweb.org/?lang=fr), version: 0.18.4
+
 ## Electrical diagram
 
 ![schematic-switching-external-pwr-supplies](Docs/schematic-switching-external-pwr-supplies.png)

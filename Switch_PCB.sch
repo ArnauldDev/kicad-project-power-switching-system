@@ -468,7 +468,7 @@ U 1 1 5F5F5FC3
 P 5800 2850
 F 0 "SW3" V 5846 2462 50  0001 R CNN
 F 1 "Switch On-Off-On" V 5100 3350 50  0000 R CNN
-F 2 "ArnauldDev_Button_Switch_THT:SW_TME_1MD3T1B1M1QE_DPDT_Straight" H 5800 3050 50  0001 C CNN
+F 2 "Local_Button_Switch_THT:SW_TME_1MD3T1B1M1QE_DPDT_Straight" H 5800 3050 50  0001 C CNN
 F 3 "https://datasheet.octopart.com/401692-RS-Pro-datasheet-110811736.pdf" H 5800 3050 50  0001 C CNN
 F 4 "Switch of Alim 3" H 5800 2850 50  0001 C CNN "Description"
 F 5 "RS Components" H 5800 2850 50  0001 C CNN "Supplier"
@@ -526,7 +526,7 @@ U 1 1 5F5F6003
 P 7300 2850
 F 0 "SW4" V 7346 3198 50  0001 L CNN
 F 1 "Switch On-Off-On" V 6600 3350 50  0000 R CNN
-F 2 "ArnauldDev_Button_Switch_THT:SW_TME_1MD3T1B1M1QE_DPDT_Straight" H 7300 3050 50  0001 C CNN
+F 2 "Local_Button_Switch_THT:SW_TME_1MD3T1B1M1QE_DPDT_Straight" H 7300 3050 50  0001 C CNN
 F 3 "https://datasheet.octopart.com/401692-RS-Pro-datasheet-110811736.pdf" H 7300 3050 50  0001 C CNN
 F 4 "Switch of Alim 4" H 7300 2850 50  0001 C CNN "Description"
 F 5 "RS Components" H 7300 2850 50  0001 C CNN "Supplier"
@@ -845,7 +845,7 @@ U 1 1 5F5C0307
 P 4300 2850
 F 0 "SW2" V 4346 3198 50  0001 L CNN
 F 1 "Switch On-Off-On" V 3600 2650 50  0000 L CNN
-F 2 "ArnauldDev_Button_Switch_THT:SW_TME_1MD3T1B1M1QE_DPDT_Straight" H 4300 3050 50  0001 C CNN
+F 2 "Local_Button_Switch_THT:SW_TME_1MD3T1B1M1QE_DPDT_Straight" H 4300 3050 50  0001 C CNN
 F 3 "https://datasheet.octopart.com/401692-RS-Pro-datasheet-110811736.pdf" H 4300 3050 50  0001 C CNN
 F 4 "Switch of Alim 2" H 4300 2850 50  0001 C CNN "Description"
 F 5 "RS Components" H 4300 2850 50  0001 C CNN "Supplier"
@@ -1324,7 +1324,7 @@ U 1 1 5F5A1533
 P 2800 2850
 F 0 "SW1" V 2846 2462 50  0001 R CNN
 F 1 "Switch On-Off-On" V 2100 3350 50  0000 R CNN
-F 2 "ArnauldDev_Button_Switch_THT:SW_TME_1MD3T1B1M1QE_DPDT_Straight" H 2800 3050 50  0001 C CNN
+F 2 "Local_Button_Switch_THT:SW_TME_1MD3T1B1M1QE_DPDT_Straight" H 2800 3050 50  0001 C CNN
 F 3 "https://datasheet.octopart.com/401692-RS-Pro-datasheet-110811736.pdf" H 2800 3050 50  0001 C CNN
 F 4 "1MD3T1B1M1QE" H 2800 2850 50  0001 C CNN "Manufacturer Part Number"
 F 5 "RS Components" H 2800 2850 50  0001 C CNN "Supplier"
