@@ -6,6 +6,7 @@ Realization of a power supply board with four switches for switching between sev
 
 - [x] Analysis of the specifications
 - [x] Choice of components and case
+- [x] Order components
 - [x] Validation of the schematic
 - [x] Definition of the PCB outline from the internal dimensions of the case
 - [x] Validate component placement and lock footprints
@@ -13,7 +14,9 @@ Realization of a power supply board with four switches for switching between sev
 - [x] Screen printing validation
 - [x] Generating design files
 - [ ] Assembly of components on the PCB
+- [ ] Functional test of the electronic board and validation of the specifications
 - [ ] Integration of the electronic card in the case
+- [ ] Final test and document review
 - [ ] Device delivery
 
 ---

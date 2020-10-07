@@ -27,13 +27,13 @@ Build settings:
 
 ### Local library
 
-.
-└── kicad-project-power-switching-system
-    ├── kicad_local_lib
-    └── kicad_local_mod
-        └── Button_Switch_THT.pretty (Local_Button_Switch_THT)
-        └── Connector_Banana.pretty (Local_Connector_Banana)
-        └── Connector_BarrelJack.pretty (Local_Connector_BarrelJack)
+    .
+    └── kicad-project-power-switching-system
+        ├── kicad_local_lib
+        └── kicad_local_mod
+            └── Button_Switch_THT.pretty (Local_Button_Switch_THT)
+            └── Connector_Banana.pretty (Local_Connector_Banana)
+            └── Connector_BarrelJack.pretty (Local_Connector_BarrelJack)
 
 ### Library management in KiCad version 5
 
@@ -47,8 +47,7 @@ Build settings:
 
 ## Open Source Hardware Association
 
+<!-- ![oshw-logo](oshw-logo-200-px.png) -->
+<a href="https://www.oshwa.org/open-source-hardware-logo/"><img src="oshw-logo-200-px.png" width="150"></a>
+
 https://www.oshwa.org/
-
-https://www.oshwa.org/open-source-hardware-logo/
-
-![oshw-logo](oshw-logo-200-px.png)

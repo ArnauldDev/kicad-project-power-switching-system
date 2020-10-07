@@ -19,7 +19,7 @@ U 1 1 5F5C0321
 P 4450 800
 F 0 "J4" V 4459 880 50  0000 L CNN
 F 1 "Red" V 4368 880 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 4450 800 50  0001 C CNN
+F 2 "Local_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 4450 800 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 4450 800 50  0001 C CNN
 F 4 "Alim 2 +" V 4277 880 50  0000 L CNN "Description"
 F 5 "RS Components" H 4450 800 50  0001 C CNN "Supplier"
@@ -35,7 +35,7 @@ U 1 1 5F5C1479
 P 8850 800
 F 0 "J9" V 8859 880 50  0000 L CNN
 F 1 "Red" V 8768 880 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 8850 800 50  0001 C CNN
+F 2 "Local_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 8850 800 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 8850 800 50  0001 C CNN
 F 4 "Keithley Chan A" V 8677 880 50  0000 L CNN "Description"
 F 5 "RS Components" H 8850 800 50  0001 C CNN "Supplier"
@@ -51,7 +51,7 @@ U 1 1 5F5F5FDD
 P 5950 800
 F 0 "J6" V 5959 880 50  0000 L CNN
 F 1 "Red" V 5868 880 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 5950 800 50  0001 C CNN
+F 2 "Local_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 5950 800 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 5950 800 50  0001 C CNN
 F 4 "Alim 3 +" V 5777 880 50  0000 L CNN "Description"
 F 5 "RS Components" H 5950 800 50  0001 C CNN "Supplier"
@@ -67,7 +67,7 @@ U 1 1 5F5F601D
 P 7450 800
 F 0 "J8" V 7459 880 50  0000 L CNN
 F 1 "Red" V 7368 880 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 7450 800 50  0001 C CNN
+F 2 "Local_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 7450 800 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 7450 800 50  0001 C CNN
 F 4 "Alim 4 +" V 7277 880 50  0000 L CNN "Description"
 F 5 "RS Components" H 7450 800 50  0001 C CNN "Supplier"
@@ -83,7 +83,7 @@ U 1 1 5F5C4404
 P 2850 5000
 F 0 "J20" V 2869 5100 50  0000 L CNN
 F 1 "Red" V 2778 5100 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-22_XELA-4_4mm_Vertical_Red" H 2850 5000 50  0001 C CNN
+F 2 "Local_Connector_Banana:STAUBLI_66.9032-22_XELA-4_4mm_Vertical_Red" H 2850 5000 50  0001 C CNN
 F 3 "https://ec.staubli.com/AcroFiles/MA/TM_MAH565_(de-en-fr).pdf" H 2850 5000 50  0001 C CNN
 F 4 "Staubli" H 2850 5000 50  0001 C CNN "Manufacturer"
 F 5 "66.9032-22" H 2850 5000 50  0001 C CNN "Manufacturer Part Number"
@@ -99,7 +99,7 @@ U 1 1 5F5F603D
 P 10300 800
 F 0 "J11" V 10309 880 50  0000 L CNN
 F 1 "Red" V 10218 880 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 10300 800 50  0001 C CNN
+F 2 "Local_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 10300 800 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 10300 800 50  0001 C CNN
 F 4 "Keithley Chan B" V 10127 880 50  0000 L CNN "Description"
 F 5 "RS Components" H 10300 800 50  0001 C CNN "Supplier"
@@ -115,7 +115,7 @@ U 1 1 5F613E51
 P 9550 800
 F 0 "J10" V 9524 901 50  0000 L CNN
 F 1 "Black" V 9433 901 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 9550 800 50  0001 C CNN
+F 2 "Local_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 9550 800 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 9550 800 50  0001 C CNN
 F 4 "GND" H 9550 800 50  0001 C CNN "Description"
 F 5 "RS Components" H 9550 800 50  0001 C CNN "Supplier"
@@ -238,7 +238,7 @@ U 1 1 5F68ED51
 P 6950 800
 F 0 "J7" V 6959 880 50  0000 L CNN
 F 1 "Black" V 6868 880 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 6950 800 50  0001 C CNN
+F 2 "Local_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 6950 800 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 6950 800 50  0001 C CNN
 F 4 "Alim 1 -" V 6777 880 50  0000 L CNN "Description"
 F 5 "RS Components" H 6950 800 50  0001 C CNN "Supplier"
@@ -254,7 +254,7 @@ U 1 1 5F66F6A6
 P 5450 800
 F 0 "J5" V 5459 880 50  0000 L CNN
 F 1 "Black" V 5368 880 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 5450 800 50  0001 C CNN
+F 2 "Local_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 5450 800 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 5450 800 50  0001 C CNN
 F 4 "Alim 1 -" V 5277 880 50  0000 L CNN "Description"
 F 5 "RS Components" H 5450 800 50  0001 C CNN "Supplier"
@@ -270,7 +270,7 @@ U 1 1 5F66D6BF
 P 3950 800
 F 0 "J3" V 3959 880 50  0000 L CNN
 F 1 "Black" V 3868 880 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 3950 800 50  0001 C CNN
+F 2 "Local_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 3950 800 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 3950 800 50  0001 C CNN
 F 4 "Alim 1 -" V 3777 880 50  0000 L CNN "Description"
 F 5 "RS Components" H 3950 800 50  0001 C CNN "Supplier"
@@ -306,7 +306,7 @@ U 1 1 5F886FA7
 P 2300 5000
 F 0 "J19" V 2319 5100 50  0000 L CNN
 F 1 "Black" V 2228 5100 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical_Black" H 2300 5000 50  0001 C CNN
+F 2 "Local_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical_Black" H 2300 5000 50  0001 C CNN
 F 3 "https://ec.staubli.com/AcroFiles/MA/TM_MAH565_(de-en-fr).pdf" H 2300 5000 50  0001 C CNN
 F 4 "Staubli" H 2300 5000 50  0001 C CNN "Manufacturer"
 F 5 "66.9032-21" H 2300 5000 50  0001 C CNN "Manufacturer Part Number"
@@ -632,25 +632,25 @@ F 8 "228-5944" H 2700 4000 50  0001 C CNN "Supplier Part Number"
 	1    2700 4000
 	0    -1   -1   0   
 $EndComp
-NoConn ~ 1250 3350
+NoConn ~ 1200 3500
 Wire Wire Line
-	1400 3450 1400 3600
+	1350 3600 1350 3750
 Wire Wire Line
-	1250 3450 1400 3450
+	1200 3600 1350 3600
 $Comp
 L Connector:Barrel_Jack_Switch_Pin3Ring J17
 U 1 1 5F76E997
-P 950 3350
-F 0 "J17" H 1007 3667 50  0000 C CNN
-F 1 "Jack 2.1mm" H 1007 3576 50  0000 C CNN
-F 2 "ArnauldDev_Connector_BarrelJack:BarrelJack_FC681465P_Pin3_Horizontal" H 1000 3310 50  0001 C CNN
-F 3 "https://www.cliffuk.co.uk/products/dcconnectors/FC681465P.pdf" H 1000 3310 50  0001 C CNN
-F 4 "Alim 5 Vdc" H 950 3350 50  0001 C CNN "Description"
-F 5 "RS Components" H 950 3350 50  0001 C CNN "Supplier"
-F 6 "805-1699" H 950 3350 50  0001 C CNN "Supplier Part Number"
-F 7 "CLIFF" H 950 3350 50  0001 C CNN "Manufacturer"
-F 8 "FC681465P (DC-10LP)" H 950 3350 50  0001 C CNN "Manufacturer Part Number"
-	1    950  3350
+P 900 3500
+F 0 "J17" H 957 3817 50  0000 C CNN
+F 1 "Jack 2.1mm" H 957 3726 50  0000 C CNN
+F 2 "Local_Connector_BarrelJack:BarrelJack_FC681465P_Pin3_Horizontal" H 950 3460 50  0001 C CNN
+F 3 "https://www.cliffuk.co.uk/products/dcconnectors/FC681465P.pdf" H 950 3460 50  0001 C CNN
+F 4 "Alim 5 Vdc" H 900 3500 50  0001 C CNN "Description"
+F 5 "RS Components" H 900 3500 50  0001 C CNN "Supplier"
+F 6 "805-1699" H 900 3500 50  0001 C CNN "Supplier Part Number"
+F 7 "CLIFF" H 900 3500 50  0001 C CNN "Manufacturer"
+F 8 "FC681465P (DC-10LP)" H 900 3500 50  0001 C CNN "Manufacturer Part Number"
+	1    900  3500
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -659,7 +659,7 @@ U 1 1 5F6A5740
 P 5850 5900
 F 0 "J32" V 5869 6000 50  0000 L CNN
 F 1 "Red" V 5778 6000 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 5850 5900 50  0001 C CNN
+F 2 "Local_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 5850 5900 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 5850 5900 50  0001 C CNN
 F 4 "OLED 3 +" V 5687 6000 50  0000 L CNN "Description"
 F 5 "RS Components" H 5850 5900 50  0001 C CNN "Supplier"
@@ -675,7 +675,7 @@ U 1 1 5F6A5754
 P 7350 5900
 F 0 "J34" V 7369 6000 50  0000 L CNN
 F 1 "Red" V 7278 6000 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 7350 5900 50  0001 C CNN
+F 2 "Local_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 7350 5900 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 7350 5900 50  0001 C CNN
 F 4 "OLED 4 +" V 7187 6000 50  0000 L CNN "Description"
 F 5 "RS Components" H 7350 5900 50  0001 C CNN "Supplier"
@@ -703,7 +703,7 @@ U 1 1 5F6A5764
 P 2300 5900
 F 0 "J27" V 2264 5980 50  0000 L CNN
 F 1 "Black" V 2173 5980 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 2300 5900 50  0001 C CNN
+F 2 "Local_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 2300 5900 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 2300 5900 50  0001 C CNN
 F 4 "GND" H 2300 5900 50  0001 C CNN "Description"
 F 5 "RS Components" H 2300 5900 50  0001 C CNN "Supplier"
@@ -731,7 +731,7 @@ U 1 1 5F6A577D
 P 3800 5900
 F 0 "J29" V 3764 5980 50  0000 L CNN
 F 1 "Black" V 3673 5980 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 3800 5900 50  0001 C CNN
+F 2 "Local_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 3800 5900 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 3800 5900 50  0001 C CNN
 F 4 "GND" H 3800 5900 50  0001 C CNN "Description"
 F 5 "RS Components" H 3800 5900 50  0001 C CNN "Supplier"
@@ -759,7 +759,7 @@ U 1 1 5F6A5796
 P 5300 5900
 F 0 "J31" V 5264 5980 50  0000 L CNN
 F 1 "Black" V 5173 5980 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 5300 5900 50  0001 C CNN
+F 2 "Local_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 5300 5900 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 5300 5900 50  0001 C CNN
 F 4 "GND" H 5300 5900 50  0001 C CNN "Description"
 F 5 "RS Components" H 5300 5900 50  0001 C CNN "Supplier"
@@ -787,7 +787,7 @@ U 1 1 5F6A57AF
 P 6800 5900
 F 0 "J33" V 6764 5980 50  0000 L CNN
 F 1 "Black" V 6673 5980 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 6800 5900 50  0001 C CNN
+F 2 "Local_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 6800 5900 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 6800 5900 50  0001 C CNN
 F 4 "GND" H 6800 5900 50  0001 C CNN "Description"
 F 5 "RS Components" H 6800 5900 50  0001 C CNN "Supplier"
@@ -803,7 +803,7 @@ U 1 1 5F6A57C2
 P 4350 5900
 F 0 "J30" V 4369 6000 50  0000 L CNN
 F 1 "Red" V 4278 6000 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 4350 5900 50  0001 C CNN
+F 2 "Local_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 4350 5900 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 4350 5900 50  0001 C CNN
 F 4 "OLED 2 +" V 4187 6000 50  0000 L CNN "Description"
 F 5 "RS Components" H 4350 5900 50  0001 C CNN "Supplier"
@@ -829,7 +829,7 @@ U 1 1 5F6EA188
 P 7200 3650
 F 0 "R8" H 7130 3604 50  0000 R CNN
 F 1 "220" H 7130 3695 50  0000 R CNN
-F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 7130 3650 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" V 7130 3650 50  0001 C CNN
 F 3 "https://docs.rs-online.com/377d/0900766b815b733c.pdf" H 7200 3650 50  0001 C CNN
 F 4 "TE Connectivity" H 7200 3650 50  0001 C CNN "Manufacturer"
 F 5 "CRG1206F220R" H 7200 3650 50  0001 C CNN "Manufacturer Part Number"
@@ -911,7 +911,7 @@ U 1 1 5F74762D
 P 7000 3650
 F 0 "R7" H 7069 3604 50  0000 L CNN
 F 1 "220" H 7069 3695 50  0000 L CNN
-F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 6930 3650 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" V 6930 3650 50  0001 C CNN
 F 3 "https://docs.rs-online.com/377d/0900766b815b733c.pdf" H 7000 3650 50  0001 C CNN
 F 4 "TE Connectivity" H 7000 3650 50  0001 C CNN "Manufacturer"
 F 5 "CRG1206F220R" H 7000 3650 50  0001 C CNN "Manufacturer Part Number"
@@ -927,7 +927,7 @@ U 1 1 5F74790D
 P 5700 3650
 F 0 "R6" H 5630 3604 50  0000 R CNN
 F 1 "220" H 5630 3695 50  0000 R CNN
-F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 5630 3650 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" V 5630 3650 50  0001 C CNN
 F 3 "https://docs.rs-online.com/377d/0900766b815b733c.pdf" H 5700 3650 50  0001 C CNN
 F 4 "TE Connectivity" H 5700 3650 50  0001 C CNN "Manufacturer"
 F 5 "CRG1206F220R" H 5700 3650 50  0001 C CNN "Manufacturer Part Number"
@@ -943,7 +943,7 @@ U 1 1 5F747F95
 P 5500 3650
 F 0 "R5" H 5569 3604 50  0000 L CNN
 F 1 "220" H 5569 3695 50  0000 L CNN
-F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 5430 3650 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" V 5430 3650 50  0001 C CNN
 F 3 "https://docs.rs-online.com/377d/0900766b815b733c.pdf" H 5500 3650 50  0001 C CNN
 F 4 "TE Connectivity" H 5500 3650 50  0001 C CNN "Manufacturer"
 F 5 "CRG1206F220R" H 5500 3650 50  0001 C CNN "Manufacturer Part Number"
@@ -959,7 +959,7 @@ U 1 1 5F74813E
 P 4200 3650
 F 0 "R4" H 4130 3604 50  0000 R CNN
 F 1 "220" H 4130 3695 50  0000 R CNN
-F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 4130 3650 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" V 4130 3650 50  0001 C CNN
 F 3 "https://docs.rs-online.com/377d/0900766b815b733c.pdf" H 4200 3650 50  0001 C CNN
 F 4 "TE Connectivity" H 4200 3650 50  0001 C CNN "Manufacturer"
 F 5 "CRG1206F220R" H 4200 3650 50  0001 C CNN "Manufacturer Part Number"
@@ -975,7 +975,7 @@ U 1 1 5F7485E5
 P 4000 3650
 F 0 "R3" H 4069 3604 50  0000 L CNN
 F 1 "220" H 4069 3695 50  0000 L CNN
-F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 3930 3650 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" V 3930 3650 50  0001 C CNN
 F 3 "https://docs.rs-online.com/377d/0900766b815b733c.pdf" H 4000 3650 50  0001 C CNN
 F 4 "TE Connectivity" H 4000 3650 50  0001 C CNN "Manufacturer"
 F 5 "CRG1206F220R" H 4000 3650 50  0001 C CNN "Manufacturer Part Number"
@@ -991,7 +991,7 @@ U 1 1 5F74870F
 P 2700 3650
 F 0 "R2" H 2630 3604 50  0000 R CNN
 F 1 "220" H 2630 3695 50  0000 R CNN
-F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 2630 3650 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" V 2630 3650 50  0001 C CNN
 F 3 "https://docs.rs-online.com/377d/0900766b815b733c.pdf" H 2700 3650 50  0001 C CNN
 F 4 "TE Connectivity" H 2700 3650 50  0001 C CNN "Manufacturer"
 F 5 "CRG1206F220R" H 2700 3650 50  0001 C CNN "Manufacturer Part Number"
@@ -1007,7 +1007,7 @@ U 1 1 5F748D90
 P 2500 3650
 F 0 "R1" H 2569 3604 50  0000 L CNN
 F 1 "220" H 2569 3695 50  0000 L CNN
-F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 2430 3650 50  0001 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" V 2430 3650 50  0001 C CNN
 F 3 "https://docs.rs-online.com/377d/0900766b815b733c.pdf" H 2500 3650 50  0001 C CNN
 F 4 "TE Connectivity" H 2500 3650 50  0001 C CNN "Manufacturer"
 F 5 "CRG1206F220R" H 2500 3650 50  0001 C CNN "Manufacturer Part Number"
@@ -1092,7 +1092,7 @@ U 1 1 5F7E8FC3
 P 4350 5000
 F 0 "J22" V 4359 5080 50  0000 L CNN
 F 1 "Red" V 4268 5080 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-22_XELA-4_4mm_Vertical_Red" H 4350 5000 50  0001 C CNN
+F 2 "Local_Connector_Banana:STAUBLI_66.9032-22_XELA-4_4mm_Vertical_Red" H 4350 5000 50  0001 C CNN
 F 3 "https://ec.staubli.com/AcroFiles/MA/TM_MAH565_(de-en-fr).pdf" H 4350 5000 50  0001 C CNN
 F 4 "Staubli" H 4350 5000 50  0001 C CNN "Manufacturer"
 F 5 "66.9032-22" H 4350 5000 50  0001 C CNN "Manufacturer Part Number"
@@ -1108,7 +1108,7 @@ U 1 1 5F7E8FD2
 P 3800 5000
 F 0 "J21" V 3809 5080 50  0000 L CNN
 F 1 "Black" V 3718 5080 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical_Black" H 3800 5000 50  0001 C CNN
+F 2 "Local_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical_Black" H 3800 5000 50  0001 C CNN
 F 3 "https://ec.staubli.com/AcroFiles/MA/TM_MAH565_(de-en-fr).pdf" H 3800 5000 50  0001 C CNN
 F 4 "Staubli" H 3800 5000 50  0001 C CNN "Manufacturer"
 F 5 "66.9032-21" H 3800 5000 50  0001 C CNN "Manufacturer Part Number"
@@ -1136,7 +1136,7 @@ U 1 1 5F7F0C84
 P 5850 5000
 F 0 "J24" V 5859 5080 50  0000 L CNN
 F 1 "Red" V 5768 5080 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-22_XELA-4_4mm_Vertical_Red" H 5850 5000 50  0001 C CNN
+F 2 "Local_Connector_Banana:STAUBLI_66.9032-22_XELA-4_4mm_Vertical_Red" H 5850 5000 50  0001 C CNN
 F 3 "https://ec.staubli.com/AcroFiles/MA/TM_MAH565_(de-en-fr).pdf" H 5850 5000 50  0001 C CNN
 F 4 "Staubli" H 5850 5000 50  0001 C CNN "Manufacturer"
 F 5 "66.9032-22" H 5850 5000 50  0001 C CNN "Manufacturer Part Number"
@@ -1152,7 +1152,7 @@ U 1 1 5F7F0C93
 P 5300 5000
 F 0 "J23" V 5309 5080 50  0000 L CNN
 F 1 "Black" V 5218 5080 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical_Black" H 5300 5000 50  0001 C CNN
+F 2 "Local_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical_Black" H 5300 5000 50  0001 C CNN
 F 3 "https://ec.staubli.com/AcroFiles/MA/TM_MAH565_(de-en-fr).pdf" H 5300 5000 50  0001 C CNN
 F 4 "Staubli" H 5300 5000 50  0001 C CNN "Manufacturer"
 F 5 "66.9032-21" H 5300 5000 50  0001 C CNN "Manufacturer Part Number"
@@ -1180,7 +1180,7 @@ U 1 1 5F7FAB59
 P 7350 5000
 F 0 "J26" V 7359 5080 50  0000 L CNN
 F 1 "Red" V 7268 5080 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-22_XELA-4_4mm_Vertical_Red" H 7350 5000 50  0001 C CNN
+F 2 "Local_Connector_Banana:STAUBLI_66.9032-22_XELA-4_4mm_Vertical_Red" H 7350 5000 50  0001 C CNN
 F 3 "https://ec.staubli.com/AcroFiles/MA/TM_MAH565_(de-en-fr).pdf" H 7350 5000 50  0001 C CNN
 F 4 "Staubli" H 7350 5000 50  0001 C CNN "Manufacturer"
 F 5 "66.9032-22" H 7350 5000 50  0001 C CNN "Manufacturer Part Number"
@@ -1196,7 +1196,7 @@ U 1 1 5F7FAB68
 P 6800 5000
 F 0 "J25" V 6809 5080 50  0000 L CNN
 F 1 "Black" V 6718 5080 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical_Black" H 6800 5000 50  0001 C CNN
+F 2 "Local_Connector_Banana:STAUBLI_66.9032-21_XELA-4_4mm_Vertical_Black" H 6800 5000 50  0001 C CNN
 F 3 "https://ec.staubli.com/AcroFiles/MA/TM_MAH565_(de-en-fr).pdf" H 6800 5000 50  0001 C CNN
 F 4 "Staubli" H 6800 5000 50  0001 C CNN "Manufacturer"
 F 5 "66.9032-21" H 6800 5000 50  0001 C CNN "Manufacturer Part Number"
@@ -1354,87 +1354,87 @@ Wire Wire Line
 	4500 2500 4800 2500
 Wire Wire Line
 	4800 2500 4800 4000
-NoConn ~ 1250 4100
+NoConn ~ 1200 4100
 Wire Wire Line
-	1400 4200 1400 4350
+	1350 4200 1350 4350
 Wire Wire Line
-	1250 4200 1400 4200
+	1200 4200 1350 4200
 $Comp
 L Connector:Barrel_Jack_Switch_Pin3Ring J18
 U 1 1 5F6D55FD
-P 950 4100
-F 0 "J18" H 1007 4417 50  0000 C CNN
-F 1 "Jack 2.1mm" H 1007 4326 50  0000 C CNN
-F 2 "ArnauldDev_Connector_BarrelJack:BarrelJack_FC681465P_Pin3_Horizontal" H 1000 4060 50  0001 C CNN
-F 3 "https://www.cliffuk.co.uk/products/dcconnectors/FC681465P.pdf" H 1000 4060 50  0001 C CNN
-F 4 "Alim 5 Vdc" H 950 4100 50  0001 C CNN "Description"
-F 5 "RS Components" H 950 4100 50  0001 C CNN "Supplier"
-F 6 "805-1699" H 950 4100 50  0001 C CNN "Supplier Part Number"
-F 7 "CLIFF" H 950 4100 50  0001 C CNN "Manufacturer"
-F 8 "FC681465P (DC-10LP)" H 950 4100 50  0001 C CNN "Manufacturer Part Number"
-	1    950  4100
+P 900 4100
+F 0 "J18" H 957 4417 50  0000 C CNN
+F 1 "Jack 2.1mm" H 957 4326 50  0000 C CNN
+F 2 "Local_Connector_BarrelJack:BarrelJack_FC681465P_Pin3_Horizontal" H 950 4060 50  0001 C CNN
+F 3 "https://www.cliffuk.co.uk/products/dcconnectors/FC681465P.pdf" H 950 4060 50  0001 C CNN
+F 4 "Alim 5 Vdc" H 900 4100 50  0001 C CNN "Description"
+F 5 "RS Components" H 900 4100 50  0001 C CNN "Supplier"
+F 6 "805-1699" H 900 4100 50  0001 C CNN "Supplier Part Number"
+F 7 "CLIFF" H 900 4100 50  0001 C CNN "Manufacturer"
+F 8 "FC681465P (DC-10LP)" H 900 4100 50  0001 C CNN "Manufacturer Part Number"
+	1    900  4100
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x02 J12
 U 1 1 5F6FA3A1
-P 950 2700
-F 0 "J12" H 868 2917 50  0000 C CNN
-F 1 "Conn_01x02" H 868 2826 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal" H 950 2700 50  0001 C CNN
-F 3 "~" H 950 2700 50  0001 C CNN
-	1    950  2700
+P 900 2700
+F 0 "J12" H 818 2917 50  0000 C CNN
+F 1 "Conn_01x02" H 818 2826 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal" H 900 2700 50  0001 C CNN
+F 3 "~" H 900 2700 50  0001 C CNN
+	1    900  2700
 	-1   0    0    -1  
 $EndComp
 $Comp
 L power:+VDC #PWR010
 U 1 1 5F7587A6
-P 1600 2600
-F 0 "#PWR010" H 1600 2500 50  0001 C CNN
-F 1 "+VDC" H 1600 2875 50  0000 C CNN
-F 2 "" H 1600 2600 50  0001 C CNN
-F 3 "" H 1600 2600 50  0001 C CNN
-	1    1600 2600
+P 1500 2600
+F 0 "#PWR010" H 1500 2500 50  0001 C CNN
+F 1 "+VDC" H 1500 2875 50  0000 C CNN
+F 2 "" H 1500 2600 50  0001 C CNN
+F 3 "" H 1500 2600 50  0001 C CNN
+	1    1500 2600
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:+5VD #PWR015
 U 1 1 5F75B9E9
-P 1200 2800
-F 0 "#PWR015" H 1200 2650 50  0001 C CNN
-F 1 "+5VD" V 1215 2928 50  0000 L CNN
-F 2 "" H 1200 2800 50  0001 C CNN
-F 3 "" H 1200 2800 50  0001 C CNN
-	1    1200 2800
-	0    1    1    0   
+P 1700 2600
+F 0 "#PWR015" H 1700 2450 50  0001 C CNN
+F 1 "+5VD" H 1715 2773 50  0000 C CNN
+F 2 "" H 1700 2600 50  0001 C CNN
+F 3 "" H 1700 2600 50  0001 C CNN
+	1    1700 2600
+	1    0    0    -1  
 $EndComp
 $Comp
 L power:GNDD #PWR020
 U 1 1 5F75CD53
-P 1400 3600
-F 0 "#PWR020" H 1400 3350 50  0001 C CNN
-F 1 "GNDD" H 1404 3445 50  0000 C CNN
-F 2 "" H 1400 3600 50  0001 C CNN
-F 3 "" H 1400 3600 50  0001 C CNN
-	1    1400 3600
+P 1350 3750
+F 0 "#PWR020" H 1350 3500 50  0001 C CNN
+F 1 "GNDD" H 1354 3595 50  0000 C CNN
+F 2 "" H 1350 3750 50  0001 C CNN
+F 3 "" H 1350 3750 50  0001 C CNN
+	1    1350 3750
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1600 2600 1600 2700
+	1500 2600 1500 2700
 Wire Wire Line
-	1600 2700 1150 2700
+	1500 2700 1250 2700
 Wire Wire Line
-	1600 3250 1600 2700
+	1500 3400 1500 2700
 Wire Wire Line
-	1250 3250 1600 3250
-Connection ~ 1600 2700
+	1200 3400 1500 3400
+Connection ~ 1500 2700
 Wire Wire Line
-	1600 4000 1600 3250
+	1500 4000 1500 3400
 Wire Wire Line
-	1250 4000 1600 4000
-Connection ~ 1600 3250
+	1200 4000 1500 4000
+Connection ~ 1500 3400
 Wire Wire Line
-	1200 2800 1150 2800
+	1150 2800 1100 2800
 $Comp
 L power:+5VD #PWR011
 U 1 1 5F79192D
@@ -1460,12 +1460,12 @@ $EndComp
 $Comp
 L power:GNDD #PWR021
 U 1 1 5F793D16
-P 1400 4350
-F 0 "#PWR021" H 1400 4100 50  0001 C CNN
-F 1 "GNDD" H 1404 4195 50  0000 C CNN
-F 2 "" H 1400 4350 50  0001 C CNN
-F 3 "" H 1400 4350 50  0001 C CNN
-	1    1400 4350
+P 1350 4350
+F 0 "#PWR021" H 1350 4100 50  0001 C CNN
+F 1 "GNDD" H 1354 4195 50  0000 C CNN
+F 2 "" H 1350 4350 50  0001 C CNN
+F 3 "" H 1350 4350 50  0001 C CNN
+	1    1350 4350
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1714,7 +1714,7 @@ U 1 1 5F61421E
 P 2450 800
 F 0 "J1" V 2469 901 50  0000 L CNN
 F 1 "Black" V 2378 901 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 2450 800 50  0001 C CNN
+F 2 "Local_Connector_Banana:SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black" H 2450 800 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 2450 800 50  0001 C CNN
 F 4 "Alim 1 -" V 2287 901 50  0000 L CNN "Description"
 F 5 "RS Components" H 2450 800 50  0001 C CNN "Supplier"
@@ -1732,7 +1732,7 @@ U 1 1 5F5A7FAB
 P 2950 800
 F 0 "J2" V 2969 901 50  0000 L CNN
 F 1 "Red" V 2878 901 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 2950 800 50  0001 C CNN
+F 2 "Local_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 2950 800 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 2950 800 50  0001 C CNN
 F 4 "Alim 1 +" V 2787 901 50  0000 L CNN "Description"
 F 5 "RS Components" H 2950 800 50  0001 C CNN "Supplier"
@@ -1792,11 +1792,11 @@ Wire Notes Line
 Wire Notes Line
 	3900 6750 5300 6750
 Wire Notes Line width 20 style solid
-	850  2800 750  2800
+	800  2800 750  2800
 Wire Notes Line width 20 style solid
 	750  2800 750  2700
 Wire Notes Line width 20 style solid
-	750  2700 850  2700
+	750  2700 800  2700
 Text Notes 700  2800 2    50   ~ 0
 LED\nON
 Wire Wire Line
@@ -1862,7 +1862,7 @@ U 1 1 5F6A574A
 P 2850 5900
 F 0 "J28" V 2869 6000 50  0000 L CNN
 F 1 "Red" V 2778 6000 50  0000 L CNN
-F 2 "ArnauldDev_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 2850 5900 50  0001 C CNN
+F 2 "Local_Connector_Banana:SCHUTZINGER_SWEB8094AU-RT_4mm_Horizontal_Red" H 2850 5900 50  0001 C CNN
 F 3 "https://www.schuetzinger.de/files/sweb_8094_au_110520.pdf" H 2850 5900 50  0001 C CNN
 F 4 "OLED 1 +" V 2687 6000 50  0000 L CNN "Description"
 F 5 "RS Components" H 2850 5900 50  0001 C CNN "Supplier"
@@ -2152,4 +2152,31 @@ Wire Wire Line
 Connection ~ 7200 3200
 Wire Wire Line
 	7200 3200 7200 3500
+$Comp
+L Jumper:SolderJumper_2_Open JP1
+U 1 1 5F7F88CB
+P 1250 2900
+F 0 "JP1" V 1250 2968 50  0000 L CNN
+F 1 "SolderJumper_2_Open" V 1295 2968 50  0001 L CNN
+F 2 "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" H 1250 2900 50  0001 C CNN
+F 3 "~" H 1250 2900 50  0001 C CNN
+	1    1250 2900
+	0    1    1    0   
+$EndComp
+Connection ~ 1250 2700
+Wire Wire Line
+	1250 2700 1100 2700
+Wire Wire Line
+	1250 2700 1250 2750
+Wire Wire Line
+	1150 3100 1250 3100
+Wire Wire Line
+	1700 3100 1700 2600
+Wire Wire Line
+	1150 2800 1150 3100
+Wire Wire Line
+	1250 3050 1250 3100
+Connection ~ 1250 3100
+Wire Wire Line
+	1250 3100 1700 3100
 $EndSCHEMATC
