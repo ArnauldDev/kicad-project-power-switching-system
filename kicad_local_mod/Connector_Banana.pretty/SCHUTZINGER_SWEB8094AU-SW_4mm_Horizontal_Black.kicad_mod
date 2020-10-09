@@ -30,7 +30,7 @@
   (pad 2 thru_hole circle (at 3.8 -5.08) (size 4 4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 3.8 5.08) (size 4 4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0) (size 6 6) (drill 2.2) (layers *.Cu *.Mask))
-  (model ${ARNAULDDEV_SYS3DMOD}/ArnauldDev_Connector_Banana.3dshapes/SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black.step
+  (model ${KIPRJMOD}/packages3d/Connector_Banana.3dshapes/SCHUTZINGER_SWEB8094AU-SW_4mm_Horizontal_Black.step
     (offset (xyz -13.5 0 5.45))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 180))
