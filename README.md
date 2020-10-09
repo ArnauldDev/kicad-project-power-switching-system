@@ -53,6 +53,16 @@ PCB outline, size: 213,00 mm x 96,60 mm (L x W)
 
 <img src="Docs/pcb-component-placement.png" width="800">
 
+## Front Copper layer
+
+<!-- ![pcb-front-copper-layer](Docs/pcb-front-copper-layer.png) -->
+<img src="Docs/pcb-front-copper-layer.png" width="900">
+
+## Back Copper layer
+
+<!-- ![pcb-back-copper-layer](Docs/pcb-back-copper-layer.png) -->
+<img src="Docs/pcb-back-copper-layer.png" width="900">
+
 ## 3D rendering
 
 <img src="Docs/pcb-component-placement-3d.png" width="800">
