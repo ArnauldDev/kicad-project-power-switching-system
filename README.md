@@ -74,3 +74,7 @@ PCB outline, size: 213,00 mm x 96,60 mm (L x W)
 ## Sectional view
 
 <img src="MECA/mechanical-integration-sectional-view-1.png" width="800">
+
+---
+
+## [CHANGELOG](CHANGELOG.md)

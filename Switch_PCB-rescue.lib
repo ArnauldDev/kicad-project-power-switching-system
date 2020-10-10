@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# Switch_PCB-rescue_+5VD-power
+# +5VD-power
 #
-DEF Switch_PCB-rescue_+5VD-power #PWR 0 0 Y Y 1 F P
+DEF +5VD-power #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "Switch_PCB-rescue_+5VD-power" 0 140 50 H V C CNN
+F1 "+5VD-power" 0 140 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -16,11 +16,11 @@ X +5VD 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# Switch_PCB-rescue_+VDC-power
+# +VDC-power
 #
-DEF Switch_PCB-rescue_+VDC-power #PWR 0 0 Y Y 1 F P
+DEF +VDC-power #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -100 50 H I C CNN
-F1 "Switch_PCB-rescue_+VDC-power" 0 250 50 H V C CNN
+F1 "+VDC-power" 0 250 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -32,11 +32,11 @@ X +VDC 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# Switch_PCB-rescue_Barrel_Jack_Switch_Pin3Ring-Connector
+# Barrel_Jack_Switch_Pin3Ring-Connector
 #
-DEF Switch_PCB-rescue_Barrel_Jack_Switch_Pin3Ring-Connector J 0 20 Y N 1 F N
+DEF Barrel_Jack_Switch_Pin3Ring-Connector J 0 20 Y N 1 F N
 F0 "J" 0 210 50 H V C CNN
-F1 "Switch_PCB-rescue_Barrel_Jack_Switch_Pin3Ring-Connector" 0 -200 50 H V C CNN
+F1 "Barrel_Jack_Switch_Pin3Ring-Connector" 0 -200 50 H V C CNN
 F2 "" 50 -40 50 H I C CNN
 F3 "" 50 -40 50 H I C CNN
 $FPLIST
@@ -57,11 +57,11 @@ X ~ 3 300 -100 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Switch_PCB-rescue_Conn_01x02-Connector_Generic
+# Conn_01x02-Connector_Generic
 #
-DEF Switch_PCB-rescue_Conn_01x02-Connector_Generic J 0 40 Y N 1 F N
+DEF Conn_01x02-Connector_Generic J 0 40 Y N 1 F N
 F0 "J" 0 100 50 H V C CNN
-F1 "Switch_PCB-rescue_Conn_01x02-Connector_Generic" 0 -200 50 H V C CNN
+F1 "Conn_01x02-Connector_Generic" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -76,11 +76,11 @@ X Pin_2 2 -200 -100 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Switch_PCB-rescue_Conn_01x03-Connector_Generic
+# Conn_01x03-Connector_Generic
 #
-DEF Switch_PCB-rescue_Conn_01x03-Connector_Generic J 0 40 Y N 1 F N
+DEF Conn_01x03-Connector_Generic J 0 40 Y N 1 F N
 F0 "J" 0 200 50 H V C CNN
-F1 "Switch_PCB-rescue_Conn_01x03-Connector_Generic" 0 -200 50 H V C CNN
+F1 "Conn_01x03-Connector_Generic" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -97,11 +97,11 @@ X Pin_3 3 -200 -100 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Switch_PCB-rescue_Conn_Coaxial-Connector
+# Conn_Coaxial-Connector
 #
-DEF Switch_PCB-rescue_Conn_Coaxial-Connector J 0 40 Y N 1 F N
+DEF Conn_Coaxial-Connector J 0 40 Y N 1 F N
 F0 "J" 10 120 50 H V C CNN
-F1 "Switch_PCB-rescue_Conn_Coaxial-Connector" 115 0 50 V V C CNN
+F1 "Conn_Coaxial-Connector" 115 0 50 V V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -122,11 +122,11 @@ X Ext 2 0 -200 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Switch_PCB-rescue_GNDD-power
+# GNDD-power
 #
-DEF Switch_PCB-rescue_GNDD-power #PWR 0 0 Y Y 1 F P
+DEF GNDD-power #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -250 50 H I C CNN
-F1 "Switch_PCB-rescue_GNDD-power" 0 -125 50 H V C CNN
+F1 "GNDD-power" 0 -125 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -136,11 +136,11 @@ X GNDD 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# Switch_PCB-rescue_GNDPWR-power
+# GNDPWR-power
 #
-DEF Switch_PCB-rescue_GNDPWR-power #PWR 0 0 Y Y 1 F P
+DEF GNDPWR-power #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -200 50 H I C CNN
-F1 "Switch_PCB-rescue_GNDPWR-power" 0 -130 50 H V C CNN
+F1 "GNDPWR-power" 0 -130 50 H V C CNN
 F2 "" 0 -50 50 H I C CNN
 F3 "" 0 -50 50 H I C CNN
 DRAW
@@ -155,11 +155,11 @@ X GNDPWR 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# Switch_PCB-rescue_LED-Device
+# LED-Device
 #
-DEF Switch_PCB-rescue_LED-Device D 0 40 N N 1 F N
+DEF LED-Device D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "Switch_PCB-rescue_LED-Device" 0 -100 50 H V C CNN
+F1 "LED-Device" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -178,11 +178,11 @@ X A 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Switch_PCB-rescue_Logo_Open_Hardware_Small-Graphic
+# Logo_Open_Hardware_Small-Graphic
 #
-DEF Switch_PCB-rescue_Logo_Open_Hardware_Small-Graphic #LOGO 0 40 Y Y 1 F N
+DEF Logo_Open_Hardware_Small-Graphic #LOGO 0 40 Y Y 1 F N
 F0 "#LOGO" 0 275 50 H I C CNN
-F1 "Switch_PCB-rescue_Logo_Open_Hardware_Small-Graphic" 0 -225 50 H I C CNN
+F1 "Logo_Open_Hardware_Small-Graphic" 0 -225 50 H I C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -190,11 +190,11 @@ P 277 0 1 0 132 -171 130 -170 125 -167 118 -162 109 -156 100 -150 93 -146 88 -14
 ENDDRAW
 ENDDEF
 #
-# Switch_PCB-rescue_MountingHole_Pad-Mechanical
+# MountingHole_Pad-Mechanical
 #
-DEF Switch_PCB-rescue_MountingHole_Pad-Mechanical H 0 40 N N 1 F N
+DEF MountingHole_Pad-Mechanical H 0 40 N N 1 F N
 F0 "H" 0 250 50 H V C CNN
-F1 "Switch_PCB-rescue_MountingHole_Pad-Mechanical" 0 175 50 H V C CNN
+F1 "MountingHole_Pad-Mechanical" 0 175 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -206,11 +206,11 @@ X 1 1 0 -100 100 U 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# Switch_PCB-rescue_PWR_FLAG-power
+# PWR_FLAG-power
 #
-DEF Switch_PCB-rescue_PWR_FLAG-power #FLG 0 0 N N 1 F P
+DEF PWR_FLAG-power #FLG 0 0 N N 1 F P
 F0 "#FLG" 0 75 50 H I C CNN
-F1 "Switch_PCB-rescue_PWR_FLAG-power" 0 150 50 H V C CNN
+F1 "PWR_FLAG-power" 0 150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -219,11 +219,11 @@ X pwr 1 0 0 0 U 50 50 0 0 w
 ENDDRAW
 ENDDEF
 #
-# Switch_PCB-rescue_R-Device
+# R-Device
 #
-DEF Switch_PCB-rescue_R-Device R 0 0 N Y 1 F N
+DEF R-Device R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
-F1 "Switch_PCB-rescue_R-Device" 0 0 50 V V C CNN
+F1 "R-Device" 0 0 50 V V C CNN
 F2 "" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -236,11 +236,11 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Switch_PCB-rescue_SW_Push_DPDT-Switch
+# SW_Push_DPDT-Switch
 #
-DEF Switch_PCB-rescue_SW_Push_DPDT-Switch SW 0 0 Y N 1 F N
+DEF SW_Push_DPDT-Switch SW 0 0 Y N 1 F N
 F0 "SW" 0 350 50 H V C CNN
-F1 "Switch_PCB-rescue_SW_Push_DPDT-Switch" 0 -400 50 H V C CNN
+F1 "SW_Push_DPDT-Switch" 0 -400 50 H V C CNN
 F2 "" 0 200 50 H I C CNN
 F3 "" 0 200 50 H I C CNN
 DRAW
@@ -266,11 +266,11 @@ X C 6 200 -300 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Switch_PCB-rescue_SolderJumper_2_Open-Jumper
+# SolderJumper_2_Open-Jumper
 #
-DEF Switch_PCB-rescue_SolderJumper_2_Open-Jumper JP 0 0 Y N 1 F N
+DEF SolderJumper_2_Open-Jumper JP 0 0 Y N 1 F N
 F0 "JP" 0 80 50 H V C CNN
-F1 "Switch_PCB-rescue_SolderJumper_2_Open-Jumper" 0 -100 50 H V C CNN
+F1 "SolderJumper_2_Open-Jumper" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST

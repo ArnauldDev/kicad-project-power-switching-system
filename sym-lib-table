@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Switch_PCB-rescue)(type Legacy)(uri ${KIPRJMOD}/Switch_PCB-rescue.lib)(options "")(descr ""))
+)

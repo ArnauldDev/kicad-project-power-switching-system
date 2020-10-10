@@ -14,7 +14,7 @@ Comment3 "Arnauld Biganzoli"
 Comment4 "Design by:"
 $EndDescr
 $Comp
-L Connector:Conn_Coaxial J4
+L Switch_PCB-rescue:Conn_Coaxial-Connector J4
 U 1 1 5F5C0321
 P 4450 800
 F 0 "J4" V 4459 880 50  0000 L CNN
@@ -30,7 +30,7 @@ F 8 "144-1450" H 4450 800 50  0001 C CNN "Supplier Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Connector:Conn_Coaxial J9
+L Switch_PCB-rescue:Conn_Coaxial-Connector J9
 U 1 1 5F5C1479
 P 8850 800
 F 0 "J9" V 8859 880 50  0000 L CNN
@@ -46,7 +46,7 @@ F 8 "144-1450" H 8850 800 50  0001 C CNN "Supplier Part Number"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector:Conn_Coaxial J6
+L Switch_PCB-rescue:Conn_Coaxial-Connector J6
 U 1 1 5F5F5FDD
 P 5950 800
 F 0 "J6" V 5959 880 50  0000 L CNN
@@ -62,7 +62,7 @@ F 8 "144-1450" H 5950 800 50  0001 C CNN "Supplier Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Connector:Conn_Coaxial J8
+L Switch_PCB-rescue:Conn_Coaxial-Connector J8
 U 1 1 5F5F601D
 P 7450 800
 F 0 "J8" V 7459 880 50  0000 L CNN
@@ -78,7 +78,7 @@ F 8 "144-1450" H 7450 800 50  0001 C CNN "Supplier Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Connector:Conn_Coaxial J20
+L Switch_PCB-rescue:Conn_Coaxial-Connector J20
 U 1 1 5F5C4404
 P 2850 5000
 F 0 "J20" V 2869 5100 50  0000 L CNN
@@ -94,7 +94,7 @@ F 8 "Relay 1 +" V 2687 5100 50  0000 L CNN "Description"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Connector:Conn_Coaxial J11
+L Switch_PCB-rescue:Conn_Coaxial-Connector J11
 U 1 1 5F5F603D
 P 10300 800
 F 0 "J11" V 10309 880 50  0000 L CNN
@@ -110,7 +110,7 @@ F 8 "144-1450" H 10300 800 50  0001 C CNN "Supplier Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Connector:Conn_Coaxial J10
+L Switch_PCB-rescue:Conn_Coaxial-Connector J10
 U 1 1 5F613E51
 P 9550 800
 F 0 "J10" V 9524 901 50  0000 L CNN
@@ -126,7 +126,7 @@ F 8 "144-1451" H 9550 800 50  0001 C CNN "Supplier Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L power:PWR_FLAG #FLG03
+L Switch_PCB-rescue:PWR_FLAG-power #FLG03
 U 1 1 5F6C171B
 P 850 1450
 F 0 "#FLG03" H 850 1525 50  0001 C CNN
@@ -137,7 +137,7 @@ F 3 "~" H 850 1450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:PWR_FLAG #FLG04
+L Switch_PCB-rescue:PWR_FLAG-power #FLG04
 U 1 1 5F6C1CCE
 P 1400 1450
 F 0 "#FLG04" H 1400 1525 50  0001 C CNN
@@ -148,7 +148,7 @@ F 3 "~" H 1400 1450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:PWR_FLAG #FLG02
+L Switch_PCB-rescue:PWR_FLAG-power #FLG02
 U 1 1 5F6C2017
 P 1400 900
 F 0 "#FLG02" H 1400 975 50  0001 C CNN
@@ -233,7 +233,7 @@ Wire Notes Line
 Wire Notes Line
 	6500 650  7900 650 
 $Comp
-L Connector:Conn_Coaxial J7
+L Switch_PCB-rescue:Conn_Coaxial-Connector J7
 U 1 1 5F68ED51
 P 6950 800
 F 0 "J7" V 6959 880 50  0000 L CNN
@@ -249,7 +249,7 @@ F 8 "144-1451" H 6950 800 50  0001 C CNN "Supplier Part Number"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector:Conn_Coaxial J5
+L Switch_PCB-rescue:Conn_Coaxial-Connector J5
 U 1 1 5F66F6A6
 P 5450 800
 F 0 "J5" V 5459 880 50  0000 L CNN
@@ -265,7 +265,7 @@ F 8 "144-1451" H 5450 800 50  0001 C CNN "Supplier Part Number"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector:Conn_Coaxial J3
+L Switch_PCB-rescue:Conn_Coaxial-Connector J3
 U 1 1 5F66D6BF
 P 3950 800
 F 0 "J3" V 3959 880 50  0000 L CNN
@@ -301,7 +301,7 @@ Wire Notes Line
 Text Notes 2250 4850 0    50   Italic 10
 Connection of relay 1
 $Comp
-L Connector:Conn_Coaxial J19
+L Switch_PCB-rescue:Conn_Coaxial-Connector J19
 U 1 1 5F886FA7
 P 2300 5000
 F 0 "J19" V 2319 5100 50  0000 L CNN
@@ -391,7 +391,7 @@ Wire Wire Line
 Wire Wire Line
 	4000 3500 4000 3300
 $Comp
-L Device:LED D1
+L Switch_PCB-rescue:LED-Device D1
 U 1 1 5F5A8D0A
 P 2500 4000
 F 0 "D1" V 2539 4080 50  0000 L CNN
@@ -463,7 +463,7 @@ Wire Wire Line
 Wire Wire Line
 	5700 3800 5700 3850
 $Comp
-L Switch:SW_Push_DPDT SW3
+L Switch_PCB-rescue:SW_Push_DPDT-Switch SW3
 U 1 1 5F5F5FC3
 P 5800 2850
 F 0 "SW3" V 5846 2462 50  0001 R CNN
@@ -487,7 +487,7 @@ Wire Wire Line
 Wire Wire Line
 	7200 4150 7200 4250
 $Comp
-L Device:LED D7
+L Switch_PCB-rescue:LED-Device D7
 U 1 1 5F5F602C
 P 7000 4000
 F 0 "D7" V 7039 4079 50  0000 L CNN
@@ -505,7 +505,7 @@ $EndComp
 Wire Wire Line
 	7200 3850 7200 3800
 $Comp
-L Device:LED D8
+L Switch_PCB-rescue:LED-Device D8
 U 1 1 5F5F6025
 P 7200 4000
 F 0 "D8" V 7239 3882 50  0000 R CNN
@@ -521,7 +521,7 @@ F 8 "228-5944" H 7200 4000 50  0001 C CNN "Supplier Part Number"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Switch:SW_Push_DPDT SW4
+L Switch_PCB-rescue:SW_Push_DPDT-Switch SW4
 U 1 1 5F5F6003
 P 7300 2850
 F 0 "SW4" V 7346 3198 50  0001 L CNN
@@ -541,7 +541,7 @@ Wire Wire Line
 Wire Wire Line
 	5500 4150 5500 4250
 $Comp
-L Device:LED D6
+L Switch_PCB-rescue:LED-Device D6
 U 1 1 5F5F5FF8
 P 5700 4000
 F 0 "D6" V 5739 3882 50  0000 R CNN
@@ -557,7 +557,7 @@ F 8 "228-5944" H 5700 4000 50  0001 C CNN "Supplier Part Number"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:LED D5
+L Switch_PCB-rescue:LED-Device D5
 U 1 1 5F5F5FF1
 P 5500 4000
 F 0 "D5" V 5539 4079 50  0000 L CNN
@@ -579,7 +579,7 @@ Wire Wire Line
 Wire Wire Line
 	4000 3850 4000 3800
 $Comp
-L Device:LED D4
+L Switch_PCB-rescue:LED-Device D4
 U 1 1 5F5C033D
 P 4200 4000
 F 0 "D4" V 4239 3882 50  0000 R CNN
@@ -597,7 +597,7 @@ $EndComp
 Wire Wire Line
 	4200 3850 4200 3800
 $Comp
-L Device:LED D3
+L Switch_PCB-rescue:LED-Device D3
 U 1 1 5F5C0336
 P 4000 4000
 F 0 "D3" V 4039 4080 50  0000 L CNN
@@ -617,7 +617,7 @@ Wire Wire Line
 Wire Wire Line
 	2700 3850 2700 3800
 $Comp
-L Device:LED D2
+L Switch_PCB-rescue:LED-Device D2
 U 1 1 5F5AE562
 P 2700 4000
 F 0 "D2" V 2739 3882 50  0000 R CNN
@@ -638,7 +638,7 @@ Wire Wire Line
 Wire Wire Line
 	1200 3600 1350 3600
 $Comp
-L Connector:Barrel_Jack_Switch_Pin3Ring J17
+L Switch_PCB-rescue:Barrel_Jack_Switch_Pin3Ring-Connector J17
 U 1 1 5F76E997
 P 900 3500
 F 0 "J17" H 957 3817 50  0000 C CNN
@@ -654,7 +654,7 @@ F 8 "FC681465P (DC-10LP)" H 900 3500 50  0001 C CNN "Manufacturer Part Number"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_Coaxial J32
+L Switch_PCB-rescue:Conn_Coaxial-Connector J32
 U 1 1 5F6A5740
 P 5850 5900
 F 0 "J32" V 5869 6000 50  0000 L CNN
@@ -670,7 +670,7 @@ F 8 "144-1450" H 5850 5900 50  0001 C CNN "Supplier Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Connector:Conn_Coaxial J34
+L Switch_PCB-rescue:Conn_Coaxial-Connector J34
 U 1 1 5F6A5754
 P 7350 5900
 F 0 "J34" V 7369 6000 50  0000 L CNN
@@ -698,7 +698,7 @@ Wire Notes Line
 Text Notes 2250 5750 0    50   Italic 10
 Connection of OLED 1
 $Comp
-L Connector:Conn_Coaxial J27
+L Switch_PCB-rescue:Conn_Coaxial-Connector J27
 U 1 1 5F6A5764
 P 2300 5900
 F 0 "J27" V 2264 5980 50  0000 L CNN
@@ -726,7 +726,7 @@ Wire Notes Line
 Text Notes 3750 5750 0    50   Italic 10
 Connection of OLED 2
 $Comp
-L Connector:Conn_Coaxial J29
+L Switch_PCB-rescue:Conn_Coaxial-Connector J29
 U 1 1 5F6A577D
 P 3800 5900
 F 0 "J29" V 3764 5980 50  0000 L CNN
@@ -754,7 +754,7 @@ Wire Notes Line
 Text Notes 5250 5750 0    50   Italic 10
 Connection of OLED 3
 $Comp
-L Connector:Conn_Coaxial J31
+L Switch_PCB-rescue:Conn_Coaxial-Connector J31
 U 1 1 5F6A5796
 P 5300 5900
 F 0 "J31" V 5264 5980 50  0000 L CNN
@@ -782,7 +782,7 @@ Wire Notes Line
 Text Notes 6750 5750 0    50   Italic 10
 Connection of OLED 4
 $Comp
-L Connector:Conn_Coaxial J33
+L Switch_PCB-rescue:Conn_Coaxial-Connector J33
 U 1 1 5F6A57AF
 P 6800 5900
 F 0 "J33" V 6764 5980 50  0000 L CNN
@@ -798,7 +798,7 @@ F 8 "144-1451" H 6800 5900 50  0001 C CNN "Supplier Part Number"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector:Conn_Coaxial J30
+L Switch_PCB-rescue:Conn_Coaxial-Connector J30
 U 1 1 5F6A57C2
 P 4350 5900
 F 0 "J30" V 4369 6000 50  0000 L CNN
@@ -824,7 +824,7 @@ Text Notes 850  5200 0    50   ~ 0
 Text Notes 550  5000 0    50   ~ 0
 Connecteurs au dessus du boitier :
 $Comp
-L Device:R R8
+L Switch_PCB-rescue:R-Device R8
 U 1 1 5F6EA188
 P 7200 3650
 F 0 "R8" H 7130 3604 50  0000 R CNN
@@ -840,7 +840,7 @@ F 8 "" H 7200 3650 50  0001 C CNN "Description"
 	-1   0    0    1   
 $EndComp
 $Comp
-L Switch:SW_Push_DPDT SW2
+L Switch_PCB-rescue:SW_Push_DPDT-Switch SW2
 U 1 1 5F5C0307
 P 4300 2850
 F 0 "SW2" V 4346 3198 50  0001 L CNN
@@ -906,7 +906,7 @@ Wire Wire Line
 Text GLabel 2900 6300 2    50   Output ~ 0
 RELAY_V1-
 $Comp
-L Device:R R7
+L Switch_PCB-rescue:R-Device R7
 U 1 1 5F74762D
 P 7000 3650
 F 0 "R7" H 7069 3604 50  0000 L CNN
@@ -922,7 +922,7 @@ F 8 "" H 7000 3650 50  0001 C CNN "Description"
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:R R6
+L Switch_PCB-rescue:R-Device R6
 U 1 1 5F74790D
 P 5700 3650
 F 0 "R6" H 5630 3604 50  0000 R CNN
@@ -938,7 +938,7 @@ F 8 "" H 5700 3650 50  0001 C CNN "Description"
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:R R5
+L Switch_PCB-rescue:R-Device R5
 U 1 1 5F747F95
 P 5500 3650
 F 0 "R5" H 5569 3604 50  0000 L CNN
@@ -954,7 +954,7 @@ F 8 "" H 5500 3650 50  0001 C CNN "Description"
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:R R4
+L Switch_PCB-rescue:R-Device R4
 U 1 1 5F74813E
 P 4200 3650
 F 0 "R4" H 4130 3604 50  0000 R CNN
@@ -970,7 +970,7 @@ F 8 "" H 4200 3650 50  0001 C CNN "Description"
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:R R3
+L Switch_PCB-rescue:R-Device R3
 U 1 1 5F7485E5
 P 4000 3650
 F 0 "R3" H 4069 3604 50  0000 L CNN
@@ -986,7 +986,7 @@ F 8 "" H 4000 3650 50  0001 C CNN "Description"
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:R R2
+L Switch_PCB-rescue:R-Device R2
 U 1 1 5F74870F
 P 2700 3650
 F 0 "R2" H 2630 3604 50  0000 R CNN
@@ -1002,7 +1002,7 @@ F 8 "" H 2700 3650 50  0001 C CNN "Description"
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:R R1
+L Switch_PCB-rescue:R-Device R1
 U 1 1 5F748D90
 P 2500 3650
 F 0 "R1" H 2569 3604 50  0000 L CNN
@@ -1018,7 +1018,7 @@ F 8 "" H 2500 3650 50  0001 C CNN "Description"
 	-1   0    0    1   
 $EndComp
 $Comp
-L Mechanical:MountingHole_Pad H1
+L Switch_PCB-rescue:MountingHole_Pad-Mechanical H1
 U 1 1 5F766BF3
 P 4350 7150
 F 0 "H1" H 4350 7345 50  0000 C CNN
@@ -1030,7 +1030,7 @@ F 4 "" H 4350 7150 50  0001 C CNN "Description"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole_Pad H2
+L Switch_PCB-rescue:MountingHole_Pad-Mechanical H2
 U 1 1 5F7C5085
 P 4550 7150
 F 0 "H2" H 4550 7345 50  0000 C CNN
@@ -1042,7 +1042,7 @@ F 4 "" H 4550 7150 50  0001 C CNN "Description"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole_Pad H3
+L Switch_PCB-rescue:MountingHole_Pad-Mechanical H3
 U 1 1 5F7C5247
 P 4750 7150
 F 0 "H3" H 4750 7345 50  0000 C CNN
@@ -1054,7 +1054,7 @@ F 4 "" H 4750 7150 50  0001 C CNN "Description"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Mechanical:MountingHole_Pad H4
+L Switch_PCB-rescue:MountingHole_Pad-Mechanical H4
 U 1 1 5F7C5452
 P 4950 7150
 F 0 "H4" H 4900 7350 50  0000 L CNN
@@ -1087,7 +1087,7 @@ Connection ~ 4750 7300
 Wire Wire Line
 	4750 7300 4550 7300
 $Comp
-L Connector:Conn_Coaxial J22
+L Switch_PCB-rescue:Conn_Coaxial-Connector J22
 U 1 1 5F7E8FC3
 P 4350 5000
 F 0 "J22" V 4359 5080 50  0000 L CNN
@@ -1103,7 +1103,7 @@ F 8 "Relay 2 +" V 4177 5080 50  0000 L CNN "Description"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Connector:Conn_Coaxial J21
+L Switch_PCB-rescue:Conn_Coaxial-Connector J21
 U 1 1 5F7E8FD2
 P 3800 5000
 F 0 "J21" V 3809 5080 50  0000 L CNN
@@ -1131,7 +1131,7 @@ Wire Wire Line
 Wire Wire Line
 	4350 5400 4400 5400
 $Comp
-L Connector:Conn_Coaxial J24
+L Switch_PCB-rescue:Conn_Coaxial-Connector J24
 U 1 1 5F7F0C84
 P 5850 5000
 F 0 "J24" V 5859 5080 50  0000 L CNN
@@ -1147,7 +1147,7 @@ F 8 "Relay 3 +" V 5677 5080 50  0000 L CNN "Description"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Connector:Conn_Coaxial J23
+L Switch_PCB-rescue:Conn_Coaxial-Connector J23
 U 1 1 5F7F0C93
 P 5300 5000
 F 0 "J23" V 5309 5080 50  0000 L CNN
@@ -1175,7 +1175,7 @@ Wire Wire Line
 Wire Wire Line
 	5850 5400 5900 5400
 $Comp
-L Connector:Conn_Coaxial J26
+L Switch_PCB-rescue:Conn_Coaxial-Connector J26
 U 1 1 5F7FAB59
 P 7350 5000
 F 0 "J26" V 7359 5080 50  0000 L CNN
@@ -1191,7 +1191,7 @@ F 8 "Relay 4 +" V 7177 5080 50  0000 L CNN "Description"
 	0    1    -1   0   
 $EndComp
 $Comp
-L Connector:Conn_Coaxial J25
+L Switch_PCB-rescue:Conn_Coaxial-Connector J25
 U 1 1 5F7FAB68
 P 6800 5000
 F 0 "J25" V 6809 5080 50  0000 L CNN
@@ -1319,7 +1319,7 @@ Wire Wire Line
 Wire Wire Line
 	6950 1000 6950 1050
 $Comp
-L Switch:SW_Push_DPDT SW1
+L Switch_PCB-rescue:SW_Push_DPDT-Switch SW1
 U 1 1 5F5A1533
 P 2800 2850
 F 0 "SW1" V 2846 2462 50  0001 R CNN
@@ -1360,7 +1360,7 @@ Wire Wire Line
 Wire Wire Line
 	1200 4200 1350 4200
 $Comp
-L Connector:Barrel_Jack_Switch_Pin3Ring J18
+L Switch_PCB-rescue:Barrel_Jack_Switch_Pin3Ring-Connector J18
 U 1 1 5F6D55FD
 P 900 4100
 F 0 "J18" H 957 4417 50  0000 C CNN
@@ -1376,7 +1376,7 @@ F 8 "FC681465P (DC-10LP)" H 900 4100 50  0001 C CNN "Manufacturer Part Number"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x02 J12
+L Switch_PCB-rescue:Conn_01x02-Connector_Generic J12
 U 1 1 5F6FA3A1
 P 900 2700
 F 0 "J12" H 818 2917 50  0000 C CNN
@@ -1387,7 +1387,7 @@ F 3 "~" H 900 2700 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L power:+VDC #PWR010
+L Switch_PCB-rescue:+VDC-power #PWR010
 U 1 1 5F7587A6
 P 1500 2600
 F 0 "#PWR010" H 1500 2500 50  0001 C CNN
@@ -1398,7 +1398,7 @@ F 3 "" H 1500 2600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5VD #PWR015
+L Switch_PCB-rescue:+5VD-power #PWR015
 U 1 1 5F75B9E9
 P 1700 2600
 F 0 "#PWR015" H 1700 2450 50  0001 C CNN
@@ -1409,7 +1409,7 @@ F 3 "" H 1700 2600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDD #PWR020
+L Switch_PCB-rescue:GNDD-power #PWR020
 U 1 1 5F75CD53
 P 1350 3750
 F 0 "#PWR020" H 1350 3500 50  0001 C CNN
@@ -1436,7 +1436,7 @@ Connection ~ 1500 3400
 Wire Wire Line
 	1150 2800 1100 2800
 $Comp
-L power:+5VD #PWR011
+L Switch_PCB-rescue:+5VD-power #PWR011
 U 1 1 5F79192D
 P 2600 2600
 F 0 "#PWR011" H 2600 2450 50  0001 C CNN
@@ -1447,7 +1447,7 @@ F 3 "" H 2600 2600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDD #PWR08
+L Switch_PCB-rescue:GNDD-power #PWR08
 U 1 1 5F7921AA
 P 850 1500
 F 0 "#PWR08" H 850 1250 50  0001 C CNN
@@ -1458,7 +1458,7 @@ F 3 "" H 850 1500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDD #PWR021
+L Switch_PCB-rescue:GNDD-power #PWR021
 U 1 1 5F793D16
 P 1350 4350
 F 0 "#PWR021" H 1350 4100 50  0001 C CNN
@@ -1469,7 +1469,7 @@ F 3 "" H 1350 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDD #PWR022
+L Switch_PCB-rescue:GNDD-power #PWR022
 U 1 1 5F79416C
 P 2600 4350
 F 0 "#PWR022" H 2600 4100 50  0001 C CNN
@@ -1480,7 +1480,7 @@ F 3 "" H 2600 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDD #PWR023
+L Switch_PCB-rescue:GNDD-power #PWR023
 U 1 1 5F794838
 P 4100 4350
 F 0 "#PWR023" H 4100 4100 50  0001 C CNN
@@ -1491,7 +1491,7 @@ F 3 "" H 4100 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDD #PWR024
+L Switch_PCB-rescue:GNDD-power #PWR024
 U 1 1 5F794DD0
 P 5600 4350
 F 0 "#PWR024" H 5600 4100 50  0001 C CNN
@@ -1502,7 +1502,7 @@ F 3 "" H 5600 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDD #PWR025
+L Switch_PCB-rescue:GNDD-power #PWR025
 U 1 1 5F79513F
 P 7100 4350
 F 0 "#PWR025" H 7100 4100 50  0001 C CNN
@@ -1521,7 +1521,7 @@ Wire Wire Line
 Wire Wire Line
 	2600 4250 2600 4350
 $Comp
-L power:GNDPWR #PWR09
+L Switch_PCB-rescue:GNDPWR-power #PWR09
 U 1 1 5F7B3003
 P 1400 1500
 F 0 "#PWR09" H 1400 1300 50  0001 C CNN
@@ -1532,7 +1532,7 @@ F 3 "" H 1400 1450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:PWR_FLAG #FLG01
+L Switch_PCB-rescue:PWR_FLAG-power #FLG01
 U 1 1 5F7D19B7
 P 850 900
 F 0 "#FLG01" H 850 975 50  0001 C CNN
@@ -1543,7 +1543,7 @@ F 3 "~" H 850 900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+VDC #PWR01
+L Switch_PCB-rescue:+VDC-power #PWR01
 U 1 1 5F7D93E4
 P 850 900
 F 0 "#PWR01" H 850 800 50  0001 C CNN
@@ -1558,7 +1558,7 @@ Wire Notes Line
 Wire Notes Line
 	1850 500  1850 1750
 $Comp
-L power:+5VD #PWR02
+L Switch_PCB-rescue:+5VD-power #PWR02
 U 1 1 5F806907
 P 1400 950
 F 0 "#PWR02" H 1400 800 50  0001 C CNN
@@ -1569,7 +1569,7 @@ F 3 "" H 1400 950 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:+5VD #PWR012
+L Switch_PCB-rescue:+5VD-power #PWR012
 U 1 1 5F807821
 P 4100 2600
 F 0 "#PWR012" H 4100 2450 50  0001 C CNN
@@ -1580,7 +1580,7 @@ F 3 "" H 4100 2600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5VD #PWR013
+L Switch_PCB-rescue:+5VD-power #PWR013
 U 1 1 5F807D2C
 P 5600 2600
 F 0 "#PWR013" H 5600 2450 50  0001 C CNN
@@ -1591,7 +1591,7 @@ F 3 "" H 5600 2600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5VD #PWR014
+L Switch_PCB-rescue:+5VD-power #PWR014
 U 1 1 5F80817B
 P 7100 2600
 F 0 "#PWR014" H 7100 2450 50  0001 C CNN
@@ -1602,7 +1602,7 @@ F 3 "" H 7100 2600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDPWR #PWR030
+L Switch_PCB-rescue:GNDPWR-power #PWR030
 U 1 1 5F808C25
 P 2300 6150
 F 0 "#PWR030" H 2300 5950 50  0001 C CNN
@@ -1613,7 +1613,7 @@ F 3 "" H 2300 6100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDPWR #PWR031
+L Switch_PCB-rescue:GNDPWR-power #PWR031
 U 1 1 5F809A40
 P 3800 6150
 F 0 "#PWR031" H 3800 5950 50  0001 C CNN
@@ -1624,7 +1624,7 @@ F 3 "" H 3800 6100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDPWR #PWR032
+L Switch_PCB-rescue:GNDPWR-power #PWR032
 U 1 1 5F809F7E
 P 5300 6150
 F 0 "#PWR032" H 5300 5950 50  0001 C CNN
@@ -1635,7 +1635,7 @@ F 3 "" H 5300 6100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDPWR #PWR033
+L Switch_PCB-rescue:GNDPWR-power #PWR033
 U 1 1 5F80A2F4
 P 6800 6150
 F 0 "#PWR033" H 6800 5950 50  0001 C CNN
@@ -1646,7 +1646,7 @@ F 3 "" H 6800 6100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDPWR #PWR04
+L Switch_PCB-rescue:GNDPWR-power #PWR04
 U 1 1 5F80BC9D
 P 3950 1050
 F 0 "#PWR04" H 3950 850 50  0001 C CNN
@@ -1657,7 +1657,7 @@ F 3 "" H 3950 1000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDPWR #PWR05
+L Switch_PCB-rescue:GNDPWR-power #PWR05
 U 1 1 5F80C17F
 P 5450 1050
 F 0 "#PWR05" H 5450 850 50  0001 C CNN
@@ -1668,7 +1668,7 @@ F 3 "" H 5450 1000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDPWR #PWR06
+L Switch_PCB-rescue:GNDPWR-power #PWR06
 U 1 1 5F80CE56
 P 6950 1050
 F 0 "#PWR06" H 6950 850 50  0001 C CNN
@@ -1679,7 +1679,7 @@ F 3 "" H 6950 1000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDPWR #PWR07
+L Switch_PCB-rescue:GNDPWR-power #PWR07
 U 1 1 5F80D390
 P 9550 1050
 F 0 "#PWR07" H 9550 850 50  0001 C CNN
@@ -1690,7 +1690,7 @@ F 3 "" H 9550 1000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDPWR #PWR03
+L Switch_PCB-rescue:GNDPWR-power #PWR03
 U 1 1 5F757AB9
 P 2450 1050
 F 0 "#PWR03" H 2450 850 50  0001 C CNN
@@ -1709,7 +1709,7 @@ Wire Wire Line
 Text GLabel 3000 1150 2    50   Output ~ 0
 Alim_V1
 $Comp
-L Connector:Conn_Coaxial J1
+L Switch_PCB-rescue:Conn_Coaxial-Connector J1
 U 1 1 5F61421E
 P 2450 800
 F 0 "J1" V 2469 901 50  0000 L CNN
@@ -1727,7 +1727,7 @@ $EndComp
 Wire Notes Line
 	3400 1250 2000 1250
 $Comp
-L Connector:Conn_Coaxial J2
+L Switch_PCB-rescue:Conn_Coaxial-Connector J2
 U 1 1 5F5A7FAB
 P 2950 800
 F 0 "J2" V 2969 901 50  0000 L CNN
@@ -1743,7 +1743,7 @@ F 8 "144-1450" H 2950 800 50  0001 C CNN "Supplier Part Number"
 	0    1    -1   0   
 $EndComp
 $Comp
-L power:GNDPWR #PWR034
+L Switch_PCB-rescue:GNDPWR-power #PWR034
 U 1 1 5F847611
 P 4250 7350
 F 0 "#PWR034" H 4250 7150 50  0001 C CNN
@@ -1754,7 +1754,7 @@ F 3 "" H 4250 7300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Graphic:Logo_Open_Hardware_Small #LOGO1
+L Switch_PCB-rescue:Logo_Open_Hardware_Small-Graphic #LOGO1
 U 1 1 5F84A1EB
 P 6100 7150
 F 0 "#LOGO1" H 6100 7425 50  0001 C CNN
@@ -1857,7 +1857,7 @@ Wire Wire Line
 	4200 800  4250 800 
 Connection ~ 3950 1000
 $Comp
-L Connector:Conn_Coaxial J28
+L Switch_PCB-rescue:Conn_Coaxial-Connector J28
 U 1 1 5F6A574A
 P 2850 5900
 F 0 "J28" V 2869 6000 50  0000 L CNN
@@ -1883,7 +1883,7 @@ Connection ~ 2550 5900
 Wire Wire Line
 	2550 5900 2650 5900
 $Comp
-L power:GNDPWR #PWR026
+L Switch_PCB-rescue:GNDPWR-power #PWR026
 U 1 1 5F8FBE18
 P 2150 5300
 F 0 "#PWR026" H 2150 5100 50  0001 C CNN
@@ -1905,7 +1905,7 @@ Connection ~ 2150 5250
 Wire Wire Line
 	2150 5250 2650 5250
 $Comp
-L power:GNDPWR #PWR029
+L Switch_PCB-rescue:GNDPWR-power #PWR029
 U 1 1 5F94C2F6
 P 6650 5300
 F 0 "#PWR029" H 6650 5100 50  0001 C CNN
@@ -1916,7 +1916,7 @@ F 3 "" H 6650 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDPWR #PWR028
+L Switch_PCB-rescue:GNDPWR-power #PWR028
 U 1 1 5F94C899
 P 5150 5300
 F 0 "#PWR028" H 5150 5100 50  0001 C CNN
@@ -1927,7 +1927,7 @@ F 3 "" H 5150 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GNDPWR #PWR027
+L Switch_PCB-rescue:GNDPWR-power #PWR027
 U 1 1 5F94CDC0
 P 3650 5300
 F 0 "#PWR027" H 3650 5100 50  0001 C CNN
@@ -2001,7 +2001,7 @@ Connection ~ 7050 5900
 Wire Wire Line
 	7050 5900 7150 5900
 $Comp
-L power:GNDD #PWR016
+L Switch_PCB-rescue:GNDD-power #PWR016
 U 1 1 5F9E5337
 P 2100 3350
 F 0 "#PWR016" H 2100 3100 50  0001 C CNN
@@ -2028,7 +2028,7 @@ Connection ~ 2700 3200
 Wire Wire Line
 	2700 3200 2700 3050
 $Comp
-L Connector_Generic:Conn_01x03 J13
+L Switch_PCB-rescue:Conn_01x03-Connector_Generic J13
 U 1 1 5F9E36D6
 P 2200 2850
 F 0 "J13" V 2400 2950 50  0000 R CNN
@@ -2039,7 +2039,7 @@ F 3 "~" H 2200 2850 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:GNDD #PWR017
+L Switch_PCB-rescue:GNDD-power #PWR017
 U 1 1 5FA5BDBA
 P 3600 3350
 F 0 "#PWR017" H 3600 3100 50  0001 C CNN
@@ -2060,7 +2060,7 @@ Wire Wire Line
 Wire Wire Line
 	3800 3200 4200 3200
 $Comp
-L Connector_Generic:Conn_01x03 J14
+L Switch_PCB-rescue:Conn_01x03-Connector_Generic J14
 U 1 1 5FA5BDC9
 P 3700 2850
 F 0 "J14" V 3900 2950 50  0000 R CNN
@@ -2077,7 +2077,7 @@ Connection ~ 4200 3200
 Wire Wire Line
 	4200 3200 4200 3500
 $Comp
-L power:GNDD #PWR018
+L Switch_PCB-rescue:GNDD-power #PWR018
 U 1 1 5FA6B2E2
 P 5100 3350
 F 0 "#PWR018" H 5100 3100 50  0001 C CNN
@@ -2098,7 +2098,7 @@ Wire Wire Line
 Wire Wire Line
 	5300 3200 5700 3200
 $Comp
-L Connector_Generic:Conn_01x03 J15
+L Switch_PCB-rescue:Conn_01x03-Connector_Generic J15
 U 1 1 5FA6B2F1
 P 5200 2850
 F 0 "J15" V 5400 2950 50  0000 R CNN
@@ -2115,7 +2115,7 @@ Connection ~ 5700 3200
 Wire Wire Line
 	5700 3200 5700 3050
 $Comp
-L power:GNDD #PWR019
+L Switch_PCB-rescue:GNDD-power #PWR019
 U 1 1 5FA7BF3A
 P 6600 3350
 F 0 "#PWR019" H 6600 3100 50  0001 C CNN
@@ -2136,7 +2136,7 @@ Wire Wire Line
 Wire Wire Line
 	6800 3200 7200 3200
 $Comp
-L Connector_Generic:Conn_01x03 J16
+L Switch_PCB-rescue:Conn_01x03-Connector_Generic J16
 U 1 1 5FA7BF49
 P 6700 2850
 F 0 "J16" V 6900 2950 50  0000 R CNN
@@ -2153,7 +2153,7 @@ Connection ~ 7200 3200
 Wire Wire Line
 	7200 3200 7200 3500
 $Comp
-L Jumper:SolderJumper_2_Open JP1
+L Switch_PCB-rescue:SolderJumper_2_Open-Jumper JP1
 U 1 1 5F7F88CB
 P 1250 2900
 F 0 "JP1" V 1250 2968 50  0000 L CNN
