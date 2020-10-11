@@ -3,4 +3,5 @@
   (lib (name Local_Connector_Banana)(type KiCad)(uri ${KIPRJMOD}/kicad_local_mod/Connector_Banana.pretty)(options "")(descr ""))
   (lib (name Local_Connector_BarrelJack)(type KiCad)(uri ${KIPRJMOD}/kicad_local_mod/Connector_BarrelJack.pretty)(options "")(descr ""))
   (lib (name Local_Layer_ID)(type KiCad)(uri ${KIPRJMOD}/kicad_local_mod/Layer_ID.pretty)(options "")(descr ""))
+  (lib (name Local_LED_THT)(type KiCad)(uri ${KIPRJMOD}/kicad_local_mod/LED_THT.pretty)(options "")(descr ""))
 )
