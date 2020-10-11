@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Power switch for test bench"
-Date "2020-09-24"
-Rev "0.1.0"
+Date "2020-10-11"
+Rev "0.1.1"
 Comp "Laboratoire LAPLACE"
 Comment1 "www.laplace.univ-tlse.fr"
 Comment2 "arnauld.biganzoli@gmail.com"
@@ -396,7 +396,7 @@ U 1 1 5F5A8D0A
 P 2500 4000
 F 0 "D1" V 2539 4080 50  0000 L CNN
 F 1 "Red" V 2448 4080 50  0000 L CNN
-F 2 "LED_THT:LED_D3.0mm" H 2500 4000 50  0001 C CNN
+F 2 "Local_LED_THT:LED_D3.0mm_H18.0mm_Red" H 2500 4000 50  0001 C CNN
 F 3 "https://docs.rs-online.com/5919/0900766b813955e6.pdf" H 2500 4000 50  0001 C CNN
 F 4 "LED Alim 1" H 2500 4000 50  0001 C CNN "Description"
 F 5 "RS Components" H 2500 4000 50  0001 C CNN "Supplier"
@@ -492,7 +492,7 @@ U 1 1 5F5F602C
 P 7000 4000
 F 0 "D7" V 7039 4079 50  0000 L CNN
 F 1 "Red" V 6948 4079 50  0000 L CNN
-F 2 "LED_THT:LED_D3.0mm" H 7000 4000 50  0001 C CNN
+F 2 "Local_LED_THT:LED_D3.0mm_H18.0mm_Red" H 7000 4000 50  0001 C CNN
 F 3 "https://docs.rs-online.com/5919/0900766b813955e6.pdf" H 7000 4000 50  0001 C CNN
 F 4 "LED Alim 4" H 7000 4000 50  0001 C CNN "Description"
 F 5 "RS Components" H 7000 4000 50  0001 C CNN "Supplier"
@@ -510,7 +510,7 @@ U 1 1 5F5F6025
 P 7200 4000
 F 0 "D8" V 7239 3882 50  0000 R CNN
 F 1 "Green" V 7148 3882 50  0000 R CNN
-F 2 "LED_THT:LED_D3.0mm" H 7200 4000 50  0001 C CNN
+F 2 "Local_LED_THT:LED_D3.0mm_H18.0mm_Green" H 7200 4000 50  0001 C CNN
 F 3 "https://docs.rs-online.com/c1ec/0900766b813955e9.pdf" H 7200 4000 50  0001 C CNN
 F 4 "LED Keith VB2" H 7200 4000 50  0001 C CNN "Description"
 F 5 "RS Components" H 7200 4000 50  0001 C CNN "Supplier"
@@ -546,7 +546,7 @@ U 1 1 5F5F5FF8
 P 5700 4000
 F 0 "D6" V 5739 3882 50  0000 R CNN
 F 1 "Green" V 5648 3882 50  0000 R CNN
-F 2 "LED_THT:LED_D3.0mm" H 5700 4000 50  0001 C CNN
+F 2 "Local_LED_THT:LED_D3.0mm_H18.0mm_Green" H 5700 4000 50  0001 C CNN
 F 3 "https://docs.rs-online.com/c1ec/0900766b813955e9.pdf" H 5700 4000 50  0001 C CNN
 F 4 "LED Keith VB1" H 5700 4000 50  0001 C CNN "Description"
 F 5 "RS Components" H 5700 4000 50  0001 C CNN "Supplier"
@@ -562,7 +562,7 @@ U 1 1 5F5F5FF1
 P 5500 4000
 F 0 "D5" V 5539 4079 50  0000 L CNN
 F 1 "Red" V 5448 4079 50  0000 L CNN
-F 2 "LED_THT:LED_D3.0mm" H 5500 4000 50  0001 C CNN
+F 2 "Local_LED_THT:LED_D3.0mm_H18.0mm_Red" H 5500 4000 50  0001 C CNN
 F 3 "https://docs.rs-online.com/5919/0900766b813955e6.pdf" H 5500 4000 50  0001 C CNN
 F 4 "LED Alim 3" H 5500 4000 50  0001 C CNN "Description"
 F 5 "RS Components" H 5500 4000 50  0001 C CNN "Supplier"
@@ -584,7 +584,7 @@ U 1 1 5F5C033D
 P 4200 4000
 F 0 "D4" V 4239 3882 50  0000 R CNN
 F 1 "Green" V 4148 3882 50  0000 R CNN
-F 2 "LED_THT:LED_D3.0mm" H 4200 4000 50  0001 C CNN
+F 2 "Local_LED_THT:LED_D3.0mm_H18.0mm_Green" H 4200 4000 50  0001 C CNN
 F 3 "https://docs.rs-online.com/c1ec/0900766b813955e9.pdf" H 4200 4000 50  0001 C CNN
 F 4 "LED Keith VA2" H 4200 4000 50  0001 C CNN "Description"
 F 5 "RS Components" H 4200 4000 50  0001 C CNN "Supplier"
@@ -602,7 +602,7 @@ U 1 1 5F5C0336
 P 4000 4000
 F 0 "D3" V 4039 4080 50  0000 L CNN
 F 1 "Red" V 3948 4080 50  0000 L CNN
-F 2 "LED_THT:LED_D3.0mm" H 4000 4000 50  0001 C CNN
+F 2 "Local_LED_THT:LED_D3.0mm_H18.0mm_Red" H 4000 4000 50  0001 C CNN
 F 3 "https://docs.rs-online.com/5919/0900766b813955e6.pdf" H 4000 4000 50  0001 C CNN
 F 4 "LED Alim 2" H 4000 4000 50  0001 C CNN "Description"
 F 5 "RS Components" H 4000 4000 50  0001 C CNN "Supplier"
@@ -622,7 +622,7 @@ U 1 1 5F5AE562
 P 2700 4000
 F 0 "D2" V 2739 3882 50  0000 R CNN
 F 1 "Green" V 2648 3882 50  0000 R CNN
-F 2 "LED_THT:LED_D3.0mm" H 2700 4000 50  0001 C CNN
+F 2 "Local_LED_THT:LED_D3.0mm_H18.0mm_Green" H 2700 4000 50  0001 C CNN
 F 3 "https://docs.rs-online.com/c1ec/0900766b813955e9.pdf" H 2700 4000 50  0001 C CNN
 F 4 "LED Keith VA1" H 2700 4000 50  0001 C CNN "Description"
 F 5 "RS Components" H 2700 4000 50  0001 C CNN "Supplier"
