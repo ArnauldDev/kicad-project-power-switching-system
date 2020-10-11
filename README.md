@@ -45,13 +45,35 @@ Open source EDA / electronics CAD software for Windows, macOS and Linux.
 
 Enclosure - plastic, size: 220 mm x 110 mm x 44 mm (L x W x H)
 
-PCB outline, size: 213,00 mm x 96,60 mm (L x W)
+## PCB outline, size: 213,00 mm x 96,60 mm (L x W), from FreeCAD
 
 <img src="Docs/pcb-contour-layer.png" width="800">
 
-## Component placement
+## Component placement and silk screen
+
+|                        Placement                         |                      Silk screen                      |
+| :------------------------------------------------------: | :---------------------------------------------------: |
+| <img src="Docs/pcb-component-placement.png" width="400"> | <img src="Docs/pcb-front-silkscreen.png" width="400"> |
+|           F.Mask + Edge.Cuts + F.CrtYd + F.Fab           |                  F.SilkS + Edge.Cuts                  |
+
+|                      Placement and Silk screen                      |
+| :-----------------------------------------------------------------: |
+| <img src="Docs/pcb-component-placement-silkscreen.png" width="800"> |
+|           F.SilkS + F.Mask + Edge.Cuts + F.CrtYd + F.Fab            |
+
+<!--
+### Component placement
 
 <img src="Docs/pcb-component-placement.png" width="800">
+
+F.Mask + Edge.Cuts + F.CrtYd + F.Fab
+
+### Silk screen
+
+<img src="Docs/pcb-front-silkscreen.png" width="800">
+
+F.SilkS + Edge.Cuts
+-->
 
 ## Front Copper layer
 
