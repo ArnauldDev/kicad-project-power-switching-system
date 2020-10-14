@@ -13,8 +13,8 @@ Realization of a power supply board with four switches for switching between sev
 - [x] Routing validation
 - [x] Screen printing validation
 - [x] Generating design files
-- [ ] Assembly of components on the PCB
-- [ ] Functional test of the electronic board and validation of the specifications
+- [x] Assembly of components on the PCB
+- [x] Functional test of the electronic board and validation of the specifications
 - [ ] Integration of the electronic card in the case
 - [ ] Final test and document review
 - [ ] Device delivery
@@ -62,7 +62,7 @@ Enclosure - plastic, size: 220 mm x 110 mm x 44 mm (L x W x H)
 |           F.SilkS + F.Mask + Edge.Cuts + F.CrtYd + F.Fab            |
 
 <!--
-### Component placement
+### Component placement - Component layout
 
 <img src="Docs/pcb-component-placement.png" width="800">
 
@@ -75,15 +75,20 @@ F.Mask + Edge.Cuts + F.CrtYd + F.Fab
 F.SilkS + Edge.Cuts
 -->
 
-## Front Copper layer
+## Top - Front Copper layer
 
 <!-- ![pcb-front-copper-layer](Docs/pcb-front-copper-layer.png) -->
 <img src="Docs/pcb-front-copper-layer.png" width="900">
 
-## Back Copper layer
+## Bottom - Back Copper layer
 
 <!-- ![pcb-back-copper-layer](Docs/pcb-back-copper-layer.png) -->
 <img src="Docs/pcb-back-copper-layer.png" width="900">
+
+<!-- ## Component layout
+
+pcb-component-placement.pdf
+ -->
 
 ## 3D rendering
 
@@ -91,7 +96,7 @@ F.SilkS + Edge.Cuts
 
 ## Integration of the electronic card in the case with the [FreeCAD](https://www.freecadweb.org) software
 
-<img src="MECA/mechanical-integration.bmp" width="800">
+<img src="Docs/mechanical-integration.png" width="800">
 
 ## Sectional view
 
