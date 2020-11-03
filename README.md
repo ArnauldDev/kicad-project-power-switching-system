@@ -15,8 +15,8 @@ Realization of a power supply board with four switches for switching between sev
 - [x] Generating design files
 - [x] Assembly of components on the PCB
 - [x] Functional test of the electronic board and validation of the specifications
-- [ ] Integration of the electronic card in the case
-- [ ] Final test and document review
+- [x] Integration of the electronic card in the case
+- [x] Final test and document review
 - [ ] Device delivery
 
 ---
@@ -92,7 +92,7 @@ pcb-component-placement.pdf
 
 ## 3D rendering
 
-<img src="Docs/pcb-component-placement-3d.png" width="800">
+<a href="Docs/pcb-component-placement-3d-inc.png"><img src="Docs/pcb-component-placement-3d.png" width="800"></a>
 
 ## Integration of the electronic card in the case with the [FreeCAD](https://www.freecadweb.org) software
 
@@ -101,6 +101,10 @@ pcb-component-placement.pdf
 ## Sectional view
 
 <img src="MECA/mechanical-integration-sectional-view-1.png" width="800">
+
+## View of final STEP file for CNC
+
+<img src="MECA/mechanical-integration-fusion-for-cnc.png" width="800">
 
 ---
 
