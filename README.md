@@ -35,7 +35,7 @@ Open source EDA / electronics CAD software for Windows, macOS and Linux.
 
 ## Electrical diagram
 
-![schematic-switching-external-pwr-supplies](Docs/schematic-switching-external-pwr-supplies.png)
+<a href="https://raw.githubusercontent.com/ArnauldDev/kicad-project-power-switching-system/master/Docs/schematic-switch-alim-v0-1-0.png" title="View complete electrical diagram" target="_blank"><img src="Docs/schematic-switching-external-pwr-supplies.png" width="800"></a>
 
 ---
 
@@ -92,7 +92,7 @@ pcb-component-placement.pdf
 
 ## 3D rendering
 
-<a href="Docs/pcb-component-placement-3d-inc.png"><img src="Docs/pcb-component-placement-3d.png" width="800"></a>
+<a href="https://raw.githubusercontent.com/ArnauldDev/kicad-project-power-switching-system/master/Docs/pcb-component-placement-3d-inc.png" title="3D rendering" target="_blank"><img src="Docs/pcb-component-placement-3d.png" width="800"></a>
 
 ## Integration of the electronic card in the case with the [FreeCAD](https://www.freecadweb.org) software
 
