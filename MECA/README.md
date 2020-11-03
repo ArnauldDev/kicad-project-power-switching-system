@@ -15,10 +15,12 @@ Prévoir colonnette ou entretoise pour réhausser la carte de :
 
 ![Spacer H1:H4](mechanical-integration-sectional-view-2.png)
 
----
-
 ## FreeCAD - 3D parametric modeler
 
 [FreeCAD](https://www.freecadweb.org/?lang=fr), version: 0.18.4
 
 ![FreeCAD Assembly](freecad-assembly.png)
+
+## Visualization of the machining of the housing
+
+![Machining of the housing](mechanical-integration-cut-off.png)

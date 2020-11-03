@@ -92,7 +92,7 @@ pcb-component-placement.pdf
 
 ## 3D rendering
 
-<a href="https://raw.githubusercontent.com/ArnauldDev/kicad-project-power-switching-system/master/Docs/pcb-component-placement-3d-inc.png" title="3D rendering" target="_blank"><img src="Docs/pcb-component-placement-3d.png" width="800"></a>
+<a href="https://raw.githubusercontent.com/ArnauldDev/kicad-project-power-switching-system/master/Docs/pcb-component-placement-3d-inc.png" title="View a other 3D rendering" target="_blank"><img src="Docs/pcb-component-placement-3d.png" width="800"></a>
 
 ## Integration of the electronic card in the case with the [FreeCAD](https://www.freecadweb.org) software
 
